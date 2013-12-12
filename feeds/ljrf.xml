@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9 (Build 13A603) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Thu, 05 Dec 2013 15:53:39 -0500</pubDate>
-        <lastBuildDate>Thu, 05 Dec 2013 15:53:39 -0500</lastBuildDate>
+        <pubDate>Thu, 12 Dec 2013 17:03:50 -0500</pubDate>
+        <lastBuildDate>Thu, 12 Dec 2013 17:03:50 -0500</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -17,7 +17,7 @@
             <width>144</width>
             <height>144</height>
         </image>
-        <atom:link href="http://lepaysreel.info/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title>Le monde de la librairie en péril ; Le reportage piège ; Enquête sur l'innovation contemporaine</title>
             <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-1800-2100.mp3</link>
