@@ -1,0 +1,95 @@
+function log(msg)
+{
+  setTimeout(function() { throw new Error(msg); }, 0);
+}
+
+function doTitle(col, item)
+{
+  var hdr = document.createElement("h4");
+  var title = item.getElementsByTagName("title")[0];
+  var txt = document.createTextNode(title.textContent.toString());
+
+  hdr.appendChild(txt);
+  col.appendChild(hdr);
+}
+
+function doSubtitle(col, item)
+{
+  var par = document.createElement("p");
+  var em = document.createElement("em");
+  var date = item.getElementsByTagName("pubDate")[0];
+  var creators = item.getElementsByTagName("creator");
+  var d = new Date(date.textContent.toString());
+  var subtitle = "Billet du " + d.toLocaleDateString();
+
+  if (creators . length != 0)
+  {
+    subtitle += ", par " + creators[0].textContent.toString();
+  }
+
+  var txt = document.createTextNode(subtitle);
+  em.appendChild(txt); par.appendChild(em); col.appendChild(par);
+}
+
+function doDescription(col, item)
+{
+  var par = document.createElement("p");
+  var desc = item.getElementsByTagName("description")[0];
+  var txt = document.createTextNode(desc.textContent.toString());
+  par.appendChild(txt); col.appendChild(par);
+}
+
+function loadPost(div)
+{
+  var path = div.getAttribute("name");
+
+  // Create a connection to the file.
+  var xmlReq = new XMLHttpRequest();
+
+  // Define which file to open and send the request.
+  xmlReq.open("GET", path, false);
+  xmlReq.setRequestHeader("Content-Type", "text/xml");
+  xmlReq.send(null);
+
+  // Place the response in an XML document.
+  var xmlRsp = xmlReq.responseXML;
+
+  // Get the channel
+  var Podcast = xmlRsp.childNodes[0];
+  var Channel = Podcast.getElementsByTagName("channel");
+  var Title = Channel[0].getElementsByTagName("title");
+
+  // Scan the posts
+
+  var Items = Channel[0].getElementsByTagName("item");
+  var Table = document.createElement("table");
+  var TableBody = document.createElement("tbody");
+
+  Table.setAttribute("class", "table table-striped");
+
+  for (var j = 0; j < Items.length; j++)
+  {
+    var Row = document.createElement("tr");
+    var Col = document.createElement("td");
+
+    doTitle(Col, Items[j]);
+    doSubtitle(Col, Items[j]);
+    doDescription(Col, Items[j]);
+
+    Row.appendChild(Col);
+    TableBody.appendChild(Row);
+  }
+
+  Table.appendChild(TableBody);
+  div.appendChild(Table);
+}
+
+function loadPosts()
+{
+  var posts = document.getElementsByClassName('posts');
+
+  for (var i = 0; i < posts.length; i += 1)
+  {
+    loadPost(posts[i]);
+  }
+}

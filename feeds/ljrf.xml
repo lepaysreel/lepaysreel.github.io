@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Libre Journal de la Résistance Française</title>
+        <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
+        <description>Le libre journal de la résistance française</description>
+        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9 (Build 13A603) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>fr</language>
+        <pubDate>Thu, 05 Dec 2013 15:53:39 -0500</pubDate>
+        <lastBuildDate>Thu, 05 Dec 2013 15:53:39 -0500</lastBuildDate>
+        <ttl>1</ttl>
+        <image>
+            <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
+            <title>Radio Courtoisie</title>
+            <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
+            <width>144</width>
+            <height>144</height>
+        </image>
+        <atom:link href="http://lepaysreel.info/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Le monde de la librairie en péril ; Le reportage piège ; Enquête sur l'innovation contemporaine</title>
+            <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-1800-2100.mp3</link>
+            <description><![CDATA[Martial Bild, assisté de Nathalie Raffard, Charles-Henry d'Elloy et Pierre de Laubier, recevait Xavier de Marchis, Marie-Thérèse et Marie-Hélène de Béjarry, libraires, Benoît Douillet, chef d'entreprise, Paul-Marie Coûteaux, ancien député français au Parlement européen, président du SIEL, Daniel Habrekorn, écrivain, Roland Hélie, directeur de la revue Synthèse Nationale et Jean-Pierre Maugendre, président de Renaissance catholique.]]></description>
+            <pubDate>Wed, 04 Dec 2013 21:00:49 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">743B3430-6193-446B-9579-97DE8B1FBCB8</guid>
+            <dc:creator>Martial Bild</dc:creator>
+        </item>
+        <item>
+            <title>Nouvelles de la réplique ; Conseils de lecture</title>
+            <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131127-1800-2100.mp3</link>
+            <description><![CDATA[Bernard Antony, assisté de Pierre Henri, recevait Jérôme Triomphe, avocat, Jeanne Smits, journaliste, Alain Sanders, journaliste, écrivain, Jean Monneret, historien, Olivier Figueras, journaliste et Louis de Condé, poète, pour une émission consacrée aux initiatives prises pour combattre l'anti-christianisme et le dénigrement de l'identité française d'une part, et à l'actualité des livres politiques, culturels et religieux d'autre part.]]></description>
+            <pubDate>Wed, 27 Nov 2013 18:00:49 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131127-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">919B62A6-EB54-46C3-AD49-F7FE8A986FB3</guid>
+            <dc:creator>Bernard Antony</dc:creator>
+        </item>
+        <item>
+            <title>Défendre nos traditions ; L'Islam en Europe ; Commentaire de l'actualité ; Les impôts confiscatoires ; Se protéger des maux de l'hiver</title>
+            <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131120-1800-2100.mp3</link>
+            <description><![CDATA[Gérard Marin, assisté de Michelle, recevait Christine Tasin, porte-parole de Riposte laïque, René Marchand, écrivain, islamologue, Alain de Peretti, vétérinaire, Joachim Véliocas, responsable de l'Observatoire de l'islamisation, Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du Syndicat hippique national, Jean-Pierre Rondeau, conseiller financier, Jean-Paul Argouarc'h, prêtre, animateur de la Sainte Croix de Riaumont, Jean-Claude Secondé, naturopathe, ostéopathe et Charlotte Sanson, ostéopathe, kinésithérapeute.]]></description>
+            <pubDate>Wed, 20 Nov 2013 18:00:49 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131120-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">84C8DB25-4586-409A-BC32-CB3B723F080E</guid>
+            <dc:creator>Gérard Marin</dc:creator>
+        </item>
+        <item>
+            <title>Les années de plomb ; Le retour des frontières</title>
+            <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131113-1800-2100.mp3</link>
+            <description><![CDATA[Emmanuel Ratier, assisté de Pascal Lassale, recevait Hervé Juvin, économiste et Gabriele Adinolfi, journaliste, écrivain, pour une émission consacrée aux “années de plomb” et au retour des frontières.]]></description>
+            <pubDate>Wed, 13 Nov 2013 18:00:49 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131113-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">FA9F13A5-6EEA-4F7A-8DDF-D56911FF48A3</guid>
+            <dc:creator>Emmanuel Ratier</dc:creator>
+        </item>
+        <item>
+            <title>La révolution Twitter ; L'âge d'or de la boxe en France ; Le coût de l'immigration</title>
+            <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131106-1800-2100.mp3</link>
+            <description><![CDATA[Martial Bild, assisté de Nathalie Raffard, Guillaume Dameron, Charles-Henry d'Elloy et Pierre de Laubier, recevait Vivien Hoch, chercheur en philosophie, journaliste, Andréa Ngombet, communicant, Stéphane Journot, animateur de communauté internet, Catherine Gravil, journaliste sportive, écrivain, Georges Perez, médecin, président de Médecine-Boxe, Roland Hélie, directeur de la revue Synthèse Nationale, Gérard Pince, économiste et Steeve Philippe, écrivain, pour une émission consacrée à la révolution Twitter, à l'âge d'or de la boxe en France et au coût de l'immigration.]]></description>
+            <pubDate>Wed, 06 Nov 2013 18:00:01 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131106-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">B0E16D54-E1B9-401D-A4FB-2BC2AE3EFF70</guid>
+            <dc:creator>Martial Bild</dc:creator>
+        </item>
+        <item>
+            <title>Nouvelles de la réplique ; Réflexion sur les droits de l'homme</title>
+            <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131030-1800-2100.mp3</link>
+            <description><![CDATA[Bernard Antony, assisté de Jeanne Smits, recevait Pierre Henri, politologue, Richard Haddad, éditeur et Aymeric Taillefer, avocat, écrivain, pour une émission consacrée aux nouvelles de la réplique et à une réflexion sur les droits de l'homme.]]></description>
+            <pubDate>Wed, 30 Oct 2013 18:00:01 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131030-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">AF453BBA-B53D-49A8-9EB5-DA550E272434</guid>
+            <dc:creator>Bernard Antony</dc:creator>
+        </item>
+        <item>
+            <title>Commentaire de l'actualité politique ; Radiographie du président Hollande ; La chronique du Marquis ; Les blessures infligées à la ville de Paris</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131023-1800-2100.mp3</link>
+            <description><![CDATA[Gérard Marin, assisté de Michelle, recevait Guillaume de Thieulloy, éditeur, directeur des 4 vérités, Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du Syndicat hippique national, Serge Federbusch, essayiste et Alain Paucard, écrivain, pour parler de l'actualité politique, d'une radiographie du président Hollande, et des blessures infligées à la ville de Paris. Avec la chronique du Marquis.]]></description>
+            <pubDate>Wed, 23 Oct 2013 18:00:01 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131023-1800-2100.mp3" length="86512256" type="audio/mpeg"/>
+            <guid isPermaLink="false">92871181-E7CB-4F1F-A696-38219EACB71C</guid>
+            <dc:creator>Gérard Marin</dc:creator>
+        </item>
+        <item>
+            <title>L'économie mondiale peut-elle s'écrouler ? ; Quelques écrivains dissidents ; La pauvreté en France</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131016-1800-2100.mp3</link>
+            <description><![CDATA[Emmanuel Ratier recevait Charles Sannat, économiste, Philippe d'Hugues, historien du cinéma, Jean-Pierre Blanchard, pasteur, président d'Action Sociale et Populaire et Renaud Revel, président de Solidarité Populaire, pour une émission consacrée à la stabilité de l'économie mondiale, à quelques écrivains dissidents et à la pauvreté en France.]]></description>
+            <pubDate>Wed, 16 Oct 2013 18:00:01 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131016-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">8DB88499-6BC7-478A-881D-97CD13B7FBD8</guid>
+            <dc:creator>Emmanuel Ratier</dc:creator>
+        </item>
+        <item>
+            <title>La révolution des valeurs ; De l'utilité des sites de rencontres ; À droite de la droite</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131009-1800-2100.mp3</link>
+            <description><![CDATA[Martial Bild, assisté de Nathalie Raffard, Guillaume Dameron, Charles-Henry d'Elloy et Pierre de Laubier, recevait Vincent Trémolet de Villers, rédacteur en chef du Figaro hors-série, Raphaël Stainville, journaliste, Gonzague George, [...]]]></description>
+            <pubDate>Wed, 09 Oct 2013 18:00:07 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131009-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">0D9DFF4E-E9C1-423E-887D-5B5699AEF86F</guid>
+            <dc:creator>Martial Bild</dc:creator>
+        </item>
+        <item>
+            <title>Nouvelles de la réplique ; Convulsions antichrétiennes en Afrique et en Orient</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131002-1800-2100.mp3</link>
+            <description><![CDATA[Bernard Antony, assisté de Jeanne Smits, recevait Vivien Hoch, chercheur en philosophie, blogueur, Pierre Henri, politologue, Jérôme Triomphe, avocat, Richard Haddad, éditeur, Béatrice Bourges, porte-parole du Printemps français et Elish [...]]]></description>
+            <pubDate>Wed, 02 Oct 2013 18:00:12 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131002-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">651F8A99-0639-4734-9220-3D560E68350F</guid>
+            <dc:creator>Bernard Antony</dc:creator>
+        </item>
+        <item>
+            <title>La loi Taubira ; Commentaire de l'actualité ; L'armée française ; La lutte contre l'insécurité</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20130925-1800-2100.mp3</link>
+            <description><![CDATA[Gérard Marin, assisté de Michelle, recevait Jean-Paul Garraud, magistrat, ancien député, président de l'association professionnelle des magistrats, Jérôme Triomphe, avocat, Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du Syndicat [...]]]></description>
+            <pubDate>Wed, 25 Sep 2013 18:00:02 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20130925-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">5D6C37AF-92C1-4BFD-9535-66A980647E8B</guid>
+            <dc:creator>Gérard Marin</dc:creator>
+        </item>
+    </channel>
+</rss>

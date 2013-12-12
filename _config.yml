@@ -1,0 +1,40 @@
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+include:     ['.htaccess']
+exclude:     []
+keep_files:  ['.git','.svn']
+gems:        []
+timezone:    nil
+encoding:    utf-8
+
+future:      true
+show_drafts: nil
+limit_posts: 0
+pygments:    true
+
+relative_permalinks: true
+
+permalink:     date
+paginate_path: 'page:num'
+
+markdown:      maruku
+markdown_ext:  markdown,mkd,mkdn,md
+textile_ext:   textile
+
+excerpt_separator: "\n\n"
+
+safe:        true
+host:        0.0.0.0
+port:        4000
+baseurl:     /
+url:         http://localhost:4000
+lsi:         false
+
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_engine: blahtex
+  png_dir:    images/latex
+  png_url:    /images/latex

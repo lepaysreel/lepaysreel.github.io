@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog du Pays Réel</title>
+        <link>http://lepaysreel.info</link>
+        <description>Le blog du Pays Réel</description>
+        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9 (Build 13A603) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Thu, 12 Dec 2013 11:02:24 -0500</pubDate>
+        <lastBuildDate>Thu, 12 Dec 2013 11:02:24 -0500</lastBuildDate>
+        <atom:link href="http://lepaysreel.info/blog.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Ouverture de la section blog !</title>
+            <description><![CDATA[Après a mise en ligne des podcasts, nous sommes heureux d'annoncer l'ouverture de la section blog du Pays Réel.]]></description>
+            <author>lepaysreel@yahoo.com (Ee'ks)</author>
+            <pubDate>Thu, 12 Dec 2013 11:02:10 -0500</pubDate>
+            <guid isPermaLink="false">4295AD2D-7D91-4BEB-A716-3C1FD1244558</guid>
+        </item>
+    </channel>
+</rss>

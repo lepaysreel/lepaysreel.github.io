@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Libre Journal de Paul-Marie Coûteaux</title>
+        <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-de-la-nuit/libre-journal-de-paul-marie-couteaux/</link>
+        <description>Libre journal de Paul-Marie Coûteaux</description>
+        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9 (Build 13A603) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>fr</language>
+        <pubDate>Thu, 12 Dec 2013 14:36:18 -0500</pubDate>
+        <lastBuildDate>Thu, 12 Dec 2013 14:36:18 -0500</lastBuildDate>
+        <image>
+            <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
+            <title>Radio Courtoisie</title>
+            <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-de-la-nuit/libre-journal-de-paul-marie-couteaux/</link>
+            <width>144</width>
+            <height>144</height>
+        </image>
+        <atom:link href="http://lepaysreel.info/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>La laïcité en question</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Jean-François Chemain, historien, essayiste et Christine Tasin, porte-parole de Riposte laïque, pour une émission consacrée à l'histoire et à l'actualité de la laïcité.]]></description>
+            <pubDate>Thu, 05 Dec 2013 00:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">722F970F-83C0-4506-AEEC-51F2124E3818</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Les raisons de la colère</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131127-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjamin Blanchard, recevait Béatrice Bourges, porte-parole du Printemps français, Aude de Kerros, peintre, graveur, Maurice de Boissaison, conseiller financier, Jean-Pierre Maugendre, président de Renaissance catholique, Pierre Lours et Renaud Duval, chroniqueurs, pour une émission consacrée aux multiples raisons sociales, politiques et culturelles de se révolter aujourd'hui.]]></description>
+            <pubDate>Wed, 27 Nov 2013 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131127-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">A132F3DF-FAAC-4B08-B6EF-AE0FA0AC6496</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Où va la France ?</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131120-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjamin Blanchard, recevait Pierre Lours, chroniqueur, Guillaume Bigot, chef d'entreprise, essayiste, Victor Fouquet, doctorant en droit européen, Renaud Duval, chroniqueur, Claude Dassié, ancien inspecteur d'académie et Alain-Pierre Rousseau, tête de liste SIEL-RBM de Brest, pour une émission consacrée à la destinée la France.]]></description>
+            <pubDate>Wed, 20 Nov 2013 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131120-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">8A5B0450-D29D-4CBF-817E-C52D7ED48605</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Hommage à Philippe Cohen</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131113-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjamin Blanchard, recevait Élisabeth Lévy, journaliste, essayiste, Périco Légasse, journaliste, critique gastronomique, Jean-Christophe Comor, viticulteur et Luc Richard, écrivain, pour un hommage au journaliste Philippe Cohen.]]></description>
+            <pubDate>Wed, 13 Nov 2013 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131113-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">074A1A9E-2674-4CF5-9B95-DE3DA0CE8A9C</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Le nouveau monde multipolaire</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131106-2130-2300.mp3</link>
+            <description><![CDATA[Benjamin Blanchard, assisté d'Yves Le Floch, recevait Paul-Marie Coûteaux, ancien député français au Parlement européen, écrivain, Aymeric Chauprade, directeur de la Revue française de géopolitique, Charles Meyer, rédacteur en chef de Nouvel arbitre et Léopold Gauthier et Renaud Duval, chroniqueurs, pour une émission consacrée à la géopolitique mondiale.]]></description>
+            <pubDate>Wed, 06 Nov 2013 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131106-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">F0DD99B6-8CB7-4D70-988C-662D642669C0</guid>
+            <dc:creator>Benjamin Blanchard</dc:creator>
+        </item>
+        <item>
+            <title>Itinéraire littéraire</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131030-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Christian Combaz, romancier, pour parler de son itinéraire littéraire.]]></description>
+            <pubDate>Wed, 30 Oct 2013 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131030-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">D9E8174C-5653-46CC-9D7C-34BEEC9A0C48</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Paris</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131023-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Christian Combaz, romancier, écrivain, Alain Paucard, écrivain et Wallerand de Saint-Just, avocat, pour une émission consacrée à Paris.]]></description>
+            <pubDate>Wed, 23 Oct 2013 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131023-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">05216104-6DBF-43A3-947D-5466BB7A38AE</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Enseigner en banlieue</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131016-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjamin Blanchard, recevait Claire Prendki et Jean-François Chemain, enseignants, écrivains, Christian Combaz, écrivain, Pierre Lours et Renaud Duval, chroniqueurs et Marie-Lou de Nazareth, mère de famille, pour une émission consacrée à l'enseignement en banlieue.]]></description>
+            <pubDate>Wed, 16 Oct 2013 21:30:54 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131016-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">6670AF2D-8FC0-43D8-9A4E-B1EF4D1A8F7D</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>La face cachée de l'Islam ; Page culturelle</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131009-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjamin Blanchard, recevait Pierre Cassen, fondateur de Riposte laïque, René Marchand, islamologue, écrivain, Jean-Claude Antakli, biologiste, écrivain, Renaud Duval, réalisateur, scénariste, Pierre Marcellesi, critique de cinéma [...]]]></description>
+            <pubDate>Wed, 09 Oct 2013 21:30:54 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131009-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">F273A378-49B8-40EA-B4D2-5C815E15937E</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Commentaire de l'actualité politique ; La justice aujourd'hui ; L'art contemporain</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131002-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Christian Vauge, professeur des Universités, Xavier Bebin, secrétaire général de l'Institut pour la justice, juriste, criminologue, écrivain, Pierre Lours, chroniqueur et Philippe Schmidt, officier, pour une émission [...]]]></description>
+            <pubDate>Wed, 02 Oct 2013 21:30:54 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131002-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">E2CB13C2-5B01-440C-AEED-246D9D95F965</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Commentaire de l'actualité ; La Syrie ; Des tournées de chants religieux ; Un roman</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20130925-2130-2300.mp3</link>
+            <description><![CDATA[Benjamin Blanchard recevait Olivier Deméocq, patron du Carré parisien, Henri Adam de Villiers, maître de chapelle de la Schola Sainte-Cécile, Clotilde de Nedde, chef de chœur des petits chantres de [...]]]></description>
+            <pubDate>Wed, 25 Sep 2013 21:30:54 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20130925-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">5628FCEC-AE02-432C-9832-2D7A32034F10</guid>
+            <dc:creator>Benjamin Blanchard</dc:creator>
+        </item>
+    </channel>
+</rss>
