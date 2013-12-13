@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9 (Build 13A603) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Thu, 12 Dec 2013 17:03:50 -0500</pubDate>
-        <lastBuildDate>Thu, 12 Dec 2013 17:03:50 -0500</lastBuildDate>
+        <pubDate>Fri, 13 Dec 2013 09:31:51 -0500</pubDate>
+        <lastBuildDate>Fri, 13 Dec 2013 09:31:51 -0500</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -19,10 +19,19 @@
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title>France, Europe, monde : équilibres et tensions des grandes puissances ; Où va le mondialisme ?</title>
+            <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131211-1800-2100.mp3</link>
+            <description><![CDATA[Emmanuel Ratier, assisté de Pascal Lassalle, recevait Aymeric Chauprade, géopolitologue, Pierre Hillard, écrivain et Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du syndicat hippique national, pour une émission consacrée aux enjeux géopolitiques contemporains et à la menace que fait peser le mondialisme sur l'équilibre des puissances.]]></description>
+            <pubDate>Wed, 11 Dec 2013 18:00:49 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131211-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">2AE36F4A-432D-4FB0-AE12-15E063EDF7FA</guid>
+            <dc:creator>Emmanuel Ratier</dc:creator>
+        </item>
+        <item>
             <title>Le monde de la librairie en péril ; Le reportage piège ; Enquête sur l'innovation contemporaine</title>
             <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-1800-2100.mp3</link>
             <description><![CDATA[Martial Bild, assisté de Nathalie Raffard, Charles-Henry d'Elloy et Pierre de Laubier, recevait Xavier de Marchis, Marie-Thérèse et Marie-Hélène de Béjarry, libraires, Benoît Douillet, chef d'entreprise, Paul-Marie Coûteaux, ancien député français au Parlement européen, président du SIEL, Daniel Habrekorn, écrivain, Roland Hélie, directeur de la revue Synthèse Nationale et Jean-Pierre Maugendre, président de Renaissance catholique.]]></description>
-            <pubDate>Wed, 04 Dec 2013 21:00:49 -0500</pubDate>
+            <pubDate>Wed, 04 Dec 2013 18:00:49 -0500</pubDate>
             <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
             <guid isPermaLink="false">743B3430-6193-446B-9579-97DE8B1FBCB8</guid>
             <dc:creator>Martial Bild</dc:creator>
