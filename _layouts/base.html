@@ -1,9 +1,8 @@
-<!DOCTYPE html>  
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>Le Pays Réel</title>
+    <title>{{ site.name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style> body { padding-top: 60px; } </style>
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
@@ -14,3 +13,22 @@
     <script src="//lepaysreel.info/js/podcasts.js"></script>
     <script src="//lepaysreel.info/js/posts.js"></script>
   </head>
+
+  <body class="normal">
+
+    <header>
+    {% include menu.html %}
+    </header>
+
+    <div class="container">
+
+    {{ content }}
+
+    </div>
+
+    <footer>
+    </footer>
+
+  </body>
+
+</html>
