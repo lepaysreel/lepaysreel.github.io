@@ -1,32 +1,12 @@
 ---
-title: Le Pays Réel
+title: Pot Pourri
 ---
 
 {% include header.html %}
 
 <body class="normal" onload="loadPodcasts()">
 
-  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="." class="navbar-brand">Le Pays Réel</a>
-    </div>
-    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
-    <ul class="nav navbar-nav">
-      <li><a href="/index.html">Blog</a> </li>
-      <li><a href="/resistance/index.html">Résistance Française</a> </li>
-      <li><a href="/couteaux/index.html">Paul-Marie Coûteaux</a></li>
-      <li class="active"><a href="/potpourri/index.html">Pot Pourri</a></li>
-    </ul>
-    </nav>
-  </div>
-  </nav>
+  {% include menu.html %}
 
   <div class="container">
     <div class="podcast" name="/feeds/pppr.xml"></div>
