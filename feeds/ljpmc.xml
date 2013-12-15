@@ -4,11 +4,11 @@
         <title>Libre Journal de Paul-Marie Coûteaux</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-de-la-nuit/libre-journal-de-paul-marie-couteaux/</link>
         <description>Libre journal de Paul-Marie Coûteaux</description>
-        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9 (Build 13A603) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9 (Build 13A3028) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Fri, 13 Dec 2013 09:51:39 -0500</pubDate>
-        <lastBuildDate>Fri, 13 Dec 2013 09:51:39 -0500</lastBuildDate>
+        <pubDate>Sat, 14 Dec 2013 20:13:46 -0500</pubDate>
+        <lastBuildDate>Sat, 14 Dec 2013 20:13:46 -0500</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -18,10 +18,19 @@
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title>Commentaire de l'actualité ; L'Afrique ; Les élections municipales de Paris</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131211-2130-2300.mp3</link>
+            <description><![CDATA[Benjamin Blanchard recevait Bernard Lugan, historien, Christian Bauge, professeur des Universités, Luc Le Garsmeur, enseignant, Lucia Laporte, économiste en aménagement du territoire, Victor Fouquet, directeur de campagne et Pierre Lours, chroniqueur, pour une émission consacrée à l'actualité nationale et internationale, à l'Afrique et aux élections municipales de Paris.]]></description>
+            <pubDate>Wed, 11 Dec 2013 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131211-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">9870DBE4-FFAD-4319-BE99-D3A2ADFF543B</guid>
+            <dc:creator>Benjamin Blanchard</dc:creator>
+        </item>
+        <item>
             <title>La laïcité en question</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-2130-2300.mp3</link>
             <description><![CDATA[Paul-Marie Coûteaux recevait Jean-François Chemain, historien, essayiste et Christine Tasin, porte-parole de Riposte laïque, pour une émission consacrée à l'histoire et à l'actualité de la laïcité.]]></description>
-            <pubDate>Thu, 05 Dec 2013 00:30:35 -0500</pubDate>
+            <pubDate>Thu, 05 Dec 2013 21:30:35 -0500</pubDate>
             <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131204-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
             <guid isPermaLink="false">722F970F-83C0-4506-AEEC-51F2124E3818</guid>
             <dc:creator>Paul-Marie Coûteaux</dc:creator>

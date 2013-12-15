@@ -1,0 +1,36 @@
+---
+layout: podcast
+title: Podcasts
+---
+
+<div class="row">
+
+  <ul class="nav nav-tabs">
+    <li class="active"><a href="#ljrf" data-toggle="tab">Journal de la Résistance Française</a></li>
+    <li class><a href="#ljpmc" data-toggle="tab">Journal de la Nuit de Paul-Marie Coûteaux</a></li>
+    <li class><a href="#pppr" data-toggle="tab">Pot Pourri du Pays Réel</a></li>
+  </ul>
+
+  <div id="tab-target" class="tab-content" style="margin-top: -1px;">
+    <div id="ljrf" class="tab-pane active in">
+      <div class="podcast" name="/feeds/ljrf.xml"></div>
+    </div>
+    <div id="ljpmc" class="tab-pane">
+      <div class="podcast" name="/feeds/ljpmc.xml"></div> 
+    </div>
+    <div id="pppr" class="tab-pane">
+      <div class="podcast" name="/feeds/pppr.xml"></div> 
+    </div>
+  </div>
+
+</div>
+
+<script>
+
+  $('#myTab a').click(function (e) {
+    e.preventDefault()
+    $(this).tab('show')
+  })
+
+</script>
+
