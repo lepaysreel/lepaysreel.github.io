@@ -4,11 +4,11 @@
         <title>Libre Journal de la Résistance Française</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
         <description>Le libre journal de la résistance française</description>
-        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9 (Build 13A603) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Fri, 13 Dec 2013 09:31:51 -0500</pubDate>
-        <lastBuildDate>Fri, 13 Dec 2013 09:31:51 -0500</lastBuildDate>
+        <pubDate>Thu, 19 Dec 2013 16:24:34 -0500</pubDate>
+        <lastBuildDate>Thu, 19 Dec 2013 16:24:34 -0500</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -18,6 +18,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Le sort alarmant des chrétiens à travers le monde ; L'exorcisme ; Des femmes dans l'ombre ; L'histoire de Paris par ses cafés</title>
+            <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131218-1800-2100.mp3</link>
+            <description><![CDATA[Gérard Marin, assisté de Michelle, recevait Marc Fromager, directeur de l'Aide à l'Église en détresse, Jacques Dhaussy, journaliste, Paul-Marie de Mauroy, prêtre, exorciste, Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du Syndicat hippique national, Jean des Cars, historien et Gérard Letailleur, écrivain, pour une émission consacrée à la persécution des chrétiens dans le monde, à l'actualité de l'exorcisme, au rôle des femmes de pouvoir dans l'histoire et à Paris à travers ses cafés les plus typiques.]]></description>
+            <pubDate>Wed, 18 Dec 2013 18:00:49 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131218-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">7BF73EDE-A603-4038-A2B6-A04AAD25CF3E</guid>
+            <dc:creator>Gérard Marin</dc:creator>
+        </item>
         <item>
             <title>France, Europe, monde : équilibres et tensions des grandes puissances ; Où va le mondialisme ?</title>
             <link>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131211-1800-2100.mp3</link>
