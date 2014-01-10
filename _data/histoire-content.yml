@@ -6,6 +6,10 @@
   title: "Napoléon"
   url: /feeds/napoleon.xml
 
+- tag: commune
+  title: "La Commune de Paris"
+  url: /feeds/commune.xml
+
 - tag: dreyfus
   title: "L'Affaire Dreyfus"
   url: /feeds/dreyfus.xml
