@@ -83,28 +83,15 @@ function loadPodcast(div)
   // Scan the channels
 
   var Items = Channel[0].getElementsByTagName("item");
-  var Table = document.createElement("table");
-  var TableBody = document.createElement("tbody");
-
-  Table.setAttribute("class", "table table-striped");
 
   for (var j = 0; j < Items.length; j++)
   {
-    var Row = document.createElement("tr");
-    var Col = document.createElement("td");
-
     doTitle(Col, Items[j]);
     doSubtitle(Col, Items[j]);
     doDescription(Col, Items[j]);
 
     // doAudioElement(Col, Items[j]);
-
-    Row.appendChild(Col);
-    TableBody.appendChild(Row);
   }
-
-  Table.appendChild(TableBody);
-  div.appendChild(Table);
 }
 
 function loadPodcasts()
