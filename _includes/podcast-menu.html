@@ -1,0 +1,5 @@
+{% if p.tag == include.active %}
+<li class="active"><a href="#{{ p.tag }}" data-toggle="tab">{{ p.title }}</a></li>
+{% else %}
+<li class><a href="#{{ p.tag }}" data-toggle="tab">{{ p.title }}</a></li>
+{% endif %}

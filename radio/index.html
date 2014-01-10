@@ -11,11 +11,7 @@ title: Radio
       <h1>{{ page.title }}</h1>
     </div>
 
-    <ul class="nav nav-pills nav-stacked">
-      <li class="active"><a href="#ljrf" data-toggle="tab">Résistance Française</a></li>
-      <li class><a href="#ljpmc" data-toggle="tab">Paul-Marie Coûteaux</a></li>
-      <li class><a href="#pppr" data-toggle="tab">Pierre Jovanovic</a></li>
-    </ul>
+    {% include radio-menu.html active='ljrf' %}
 
     <hr>
 
@@ -67,22 +63,10 @@ title: Radio
 
   <div class="col-md-9">
 
-    <div id="tab-target" class="tab-content">
-      <div id="ljrf" class="tab-pane active in">
-        <div class="podcast" name="/feeds/ljrf.xml"></div>
-        <center><a href="/feeds/ljrf.xml" role="button" class="btn btn-primary">Accéder à la source</a></center>
-      </div>
-      <div id="ljpmc" class="tab-pane">
-        <div class="podcast" name="/feeds/ljpmc.xml"></div> 
-        <center><a href="/feeds/ljpmc.xml" role="button" class="btn btn-primary">Accéder à la source</a></center>
-      </div>
-      <div id="pppr" class="tab-pane">
-        <div class="podcast" name="/feeds/pppr.xml"></div> 
-        <center><a href="/feeds/pppr.xml" role="button" class="btn btn-primary">Accéder à la source</a></center>
-      </div>
-    </div>
+  {% include radio-content.html active='ljrf' %}
 
   </div>
+
 </div>
 
 <script>

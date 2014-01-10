@@ -1,0 +1,15 @@
+{% if p.tag == include.active %}
+
+<div id="{{ p.tag }}" class="tab-pane active in">
+  <div class="podcast" name="{{ p.url }}"></div>
+  <center><a href="{{ p.url }}" role="button" class="btn btn-primary">Accéder à la source</a></center>
+</div>
+
+{% else %}
+
+<div id="{{ p.tag }}" class="tab-pane">
+  <div class="podcast" name="{{ p.url }}"></div> 
+  <center><a href="{{ p.url }}" role="button" class="btn btn-primary">Accéder à la source</a></center>
+</div>
+
+{% endif %}
