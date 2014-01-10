@@ -1,5 +1,9 @@
-- title: Blog
-  url: /blog/index.html
+# - title: Blog
+#   url: /blog/index.html
 
-- title: Podcasts
-  url: /podcasts/index.html
+- title: Radio
+  url: /radio/index.html
+
+- title: Histoire
+  url: /histoire/index.html
+

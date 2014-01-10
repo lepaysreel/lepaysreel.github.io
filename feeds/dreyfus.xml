@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Libre Journal de la Résistance Française</title>
+        <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
+        <description>Le libre journal de la résistance française</description>
+        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>fr</language>
+        <pubDate>Thu, 09 Jan 2014 19:53:21 -0500</pubDate>
+        <lastBuildDate>Thu, 09 Jan 2014 19:53:21 -0500</lastBuildDate>
+        <ttl>1</ttl>
+        <image>
+            <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
+            <title>Radio Courtoisie</title>
+            <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
+            <width>144</width>
+            <height>144</height>
+        </image>
+        <atom:link href="http://lepaysreel.info/feeds/dreyfus.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Épisode 1</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/AFFAIRE_DREYFUS/DREYFUS_1_3.mp3</link>
+            <description><![CDATA[L'affaire Dreyfus, une simple affaire d'espionnage militaire, engendre une vague d'antisémitisme sans précédent et divise la France. Henri Guillemin en dévoile les coulisses.]]></description>
+            <pubDate>Wed, 06 Jan 1965 12:00:51 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/AFFAIRE_DREYFUS/DREYFUS_1_3.mp3" length="33275018" type="audio/mpeg"/>
+            <guid isPermaLink="false">7F9D01D5-42C5-4404-BB2B-7A89FB6CFC32</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 2</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/AFFAIRE_DREYFUS/DREYFUS_2_3.mp3</link>
+            <description><![CDATA[Deuxième partie de l'affaire Dreyfus, présentée par Henri Guillemin. L'historien s'emploie à démonter la machination de l'état-major qui fit condamner le capitaine Dreyfus. Inutile de préciser qu'une telle émission, en trois partie de trente minutes chacune, avec un seul présentateur filmé en plan fixe, est tout simplement inimaginable aujourd'hui. D'ailleurs, quel historien relèverait le défi s'il en avait la possibilité?]]></description>
+            <pubDate>Sat, 09 Jan 1965 12:00:51 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/AFFAIRE_DREYFUS/DREYFUS_2_3.mp3" length="25338809" type="audio/mpeg"/>
+            <guid isPermaLink="false">BE88468C-E45C-4E6B-B30D-54813DDACE52</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 3</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/AFFAIRE_DREYFUS/DREYFUS_3_3.mp3</link>
+            <description><![CDATA[Troisième et dernière partie consacrée à l'affaire Dreyfus, cette affaire militaro-judiciaire qui a déchiré la France à la fin du XIXe siècle. Après en avoir présenté les enjeux et les principaux protoganistes, Henri Guillemin propose dans cet épisode son hypothèse personnelle…]]></description>
+            <pubDate>Wed, 13 Jan 1965 12:00:51 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/AFFAIRE_DREYFUS/DREYFUS_3_3.mp3" length="18944869" type="audio/mpeg"/>
+            <guid isPermaLink="false">5D6C37AF-92C1-4BFD-9535-66A980647E8B</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+    </channel>
+</rss>

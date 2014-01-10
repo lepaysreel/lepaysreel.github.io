@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Libre Journal de la Résistance Française</title>
+        <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
+        <description>Le libre journal de la résistance française</description>
+        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>fr</language>
+        <pubDate>Thu, 09 Jan 2014 19:49:32 -0500</pubDate>
+        <lastBuildDate>Thu, 09 Jan 2014 19:49:32 -0500</lastBuildDate>
+        <ttl>1</ttl>
+        <image>
+            <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
+            <title>Radio Courtoisie</title>
+            <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
+            <width>144</width>
+            <height>144</height>
+        </image>
+        <atom:link href="http://lepaysreel.info/feeds/jda.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Épisode 1 : "Le temps de Jeanne"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_01_13.mp3</link>
+            <description><![CDATA[Dans cette première conférence de série intitulée «L'Énigme Jeanne d'Arc», Henri Guillemin s'efforce de dresser un tableau de la situation politique dans l'Europe occidentale du XIVe et XVe siècle. C'est la période de la Guerre de Cent ans qui ravage le territoire de la France et qui met aux prises Français, Anglais et Bourguignons. Henri Guillemin rappelle également la puissance du clergé, ainsi que ses luttes intestines qui amèneront trois papes à siéger au même moment.]]></description>
+            <pubDate>Sun, 26 Apr 1970 12:00:58 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_01_13.mp3" length="26044742" type="audio/mpeg"/>
+            <guid isPermaLink="false">3C68D788-16ED-4CA1-820D-035E4741F9A6</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 2 : "Signalement"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_02_13.mp3</link>
+            <description><![CDATA[Qui était la jeune fille que l'on a appellé Jeanne d'Arc? Dans ce second volet, Henri Guillemin fait le point sur l'historiographie consacrée à Jeanne et soupèse les différentes théories relatives à ses origines, sa jeunesse et les fameuses voix qu'elle prétendait entendre.]]></description>
+            <pubDate>Sun, 10 May 1970 12:00:08 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_02_13.mp3" length="29836468" type="audio/mpeg"/>
+            <guid isPermaLink="false">CBAE002A-F7CA-4845-8E12-3DA30046855D</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 3 : "Chez le Roi"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_03_13.mp3</link>
+            <description><![CDATA[Henri Guillemin poursuit son récit en décrivant le développement de la réputation de Jeanne auprès du petit peupe ainsi que son comportement avec les hommes. Suite à son entrevue avec Charles VII, Jeanne d'Arc devient un instrument de la politique du roi et Guillemin dévoile les prémisses de sa manipulation par les conseillers de la cour.]]></description>
+            <pubDate>Sun, 24 May 1970 12:00:17 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_03_13.mp3" length="29836468" type="audio/mpeg"/>
+            <guid isPermaLink="false">B7DFE426-EEA2-47C1-90CB-2257D26CD0F3</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 4 : "Le siège d'Orléans"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_04_13.mp3</link>
+            <description><![CDATA[Les conseillers du roi refusent toujours de voir en Jeanne la cheffe de guerre. Ainsi, est-elle envoyée au secour d'Orléans assiégé dans un convoi de ravitaillement et non à la tête de soldats comme le prétend la légende dorée. Toutefois, elle parvient à lever le siège de la ville en faisant preuve d'un enthousiasme communicatif. Avec ce quatrième épisode, Henri Guillemin poursuit son enquête historique surprenante sur Jeanne d'Arc.]]></description>
+            <pubDate>Sun, 07 Jun 1970 12:00:21 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_04_13.mp3" length="29020611" type="audio/mpeg"/>
+            <guid isPermaLink="false">50B8C375-B569-48F9-9877-1147C9112DB9</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 5 : "Temps perdu"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_05_13.mp3</link>
+            <description><![CDATA[Après l'épisode de la victoire de Jeanne lors du siège d'Orléans, Henri Guillemin s'attache à la description de la vie privée et des goûts personnels de cette jeune fille, comme son attrait pour les objets luxueux. Sur le plan militaire, Jeanne d'Arc participe aux offensives sur la Loire alors qu'une ombre commence à planer sur son destin: l'Université de Paris a dénoncé Jeanne à Rome comme hérétique.]]></description>
+            <pubDate>Sun, 21 Jun 1970 12:00:36 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_05_13.mp3" length="28686662" type="audio/mpeg"/>
+            <guid isPermaLink="false">74414BEA-12A8-4535-9DFF-7BDDFB13EEEE</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 6 : "Le sacre à Reims"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_06_13.mp3</link>
+            <description><![CDATA[Alors que l'imbroglio diplomatique et militaire se complique entre Bourguignons, Anglais et Français, Charles VII est sacré roi de France à Reims le 17 juillet 1429. Voeu le plus cher de Jeanne, ce sacre n'a pas du tout la même signification pour la jeune fille que pour Charles et son entourage, comme l'explique Henri Guillemin dans ce sixième épisode de la série qu'il consacre à la Pucelle d'Orléans.]]></description>
+            <pubDate>Sun, 05 Jul 1970 12:00:29 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_06_13.mp3" length="28732638" type="audio/mpeg"/>
+            <guid isPermaLink="false">A390DB28-BAEA-4B6C-B142-2B8E049DFBA9</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 7 : "Reprendre Paris"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_07_13.mp3</link>
+            <description><![CDATA[Alors que les tensions entre Jeanne et la cour de Charles VII augmentent, les Anglais se renforcent sans pour autant tenter un combat décisif. Jeanne souhaite reprendre Paris, mais essuie un échec cinglant. Pour Henri Guillemin, elle a été victime d'un complot.]]></description>
+            <pubDate>Sun, 12 Jul 1970 12:00:51 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_07_13.mp3" length="29436899" type="audio/mpeg"/>
+            <guid isPermaLink="false">5917CA30-DA58-4D7B-9626-28DA1C75B8DA</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 8 : "Jeanne isolée"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_08_13.mp3</link>
+            <description><![CDATA[Après son échec devant Paris, restée très anglophile, Jeanne est contrainte de battre en retraite au-delà de la Loire, avant de revenir sur Compiègne, assiégée par les Bourguignons, en mars 1430. Henri Guillemin poursuit son exploration de l'histoire de Jeanne d'Arc a ce huitième épisode.]]></description>
+            <pubDate>Sun, 19 Jul 1970 12:00:44 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_08_13.mp3" length="27709056" type="audio/mpeg"/>
+            <guid isPermaLink="false">1D9AAE50-9E6D-49D2-A647-2C70DE952027</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 9 : "La capture"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_09_13.mp3</link>
+            <description><![CDATA[A Compeigne, la bataille face aux Bourguignons tourne au désastre et Jeanne est capturée le 23 mai 1430. Le roi Charles VII refuse de payer la rançon exigée et Jeanne est livrée aux Anglais en novembre, non sans avoir essayé de s'évader.]]></description>
+            <pubDate>Sun, 26 Jul 1970 12:00:26 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_09_13.mp3" length="26572625" type="audio/mpeg"/>
+            <guid isPermaLink="false">043A9E30-78A4-4C69-9AFC-AEF3877FE750</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 10 : "Aux fauves"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_10_13.mp3</link>
+            <description><![CDATA[Dans ce dixième épisode de L'énigme Jeanne d'Arc, Henri Guillemin rappelle que, contrairement aux idées reçues, ce ne sont pas les Anglais mais bien l'Eglise qui jugea et condamna Jeanne à Rouen. Pour l'historien français, ce procès, loin d'être basé sur des motifs religieux, est en réalité une affaire politique en lien avec le sacre de Charles VII. Il revient ensuite sur les sources historiques dont nous disposons sur le procès.]]></description>
+            <pubDate>Sun, 08 Feb 1970 12:00:04 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_10_13.mp3" length="31484481" type="audio/mpeg"/>
+            <guid isPermaLink="false">6F5BADEE-0826-4435-AE2A-E70C1ABED4E8</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 11 : "L'épouvante"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_11_13.mp3</link>
+            <description><![CDATA[Déférée au tribunal de l'Inquisition présidé par l'évêque de Beauvais, tout dévoué à la cause anglaise, Jeanne passe en procès pour hérésie. Au cours de son interrogatoire, elle fait bravement face à ses juges et fournit des réponses d'une haute inspiration aux questions qui cherchent à la confondre. D'abord condamnée à une peine d'emprisonnement, elle est ensuite déclarée «relapse» après avoir de nouveau invoqué ses «voix», et, cette fois, condamnée à être brûlée vive à l'unanimité de ses quarante et un juges. Son exécution a lieu sur la place du Vieux-Marché de Rouen, le 30 mai 1431.]]></description>
+            <pubDate>Sun, 09 Aug 1970 12:00:46 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_11_13.mp3" length="25852899" type="audio/mpeg"/>
+            <guid isPermaLink="false">00D41F28-62C8-4A74-810F-7D0821DE07B9</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 12 : "Jeanne réhabilitée"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_12_13.mp3</link>
+            <description><![CDATA[Dans cet épisode, Henri Guillemin se penche sur les suites du procès de Jeanne. Alors que l'Eglise se déchire toujours, les Français réussissent enfin à chasser les Anglais de Paris puis de «France». L'Université de Paris (qui avait condamné Jeanne) se retrouve donc sous la protection des Français. Pour laver l'affront fait au roi, l'Université va donc être chargée de réhabiliter Jeanne par de subtiles et assez basses manoeuvres.]]></description>
+            <pubDate>Sun, 16 Aug 1970 12:00:07 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_12_13.mp3" length="29020611" type="audio/mpeg"/>
+            <guid isPermaLink="false">78DE65F7-C479-4E5B-B07A-63554CD72367</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+        <item>
+            <title>Épisode 13 : "Sainte Jeanne"</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_13_13.mp3</link>
+            <description><![CDATA[Pour ce dernier épisode, Henri Guillemin explique la construction historique de la mémoire de Jeanne j'Arc dans la culture française et son appropriation par les partis de droite nationaliste dès le XIXe siècle. Pour conclure, l'historien livre son intime conviction sur la personnalité de Jeanne, sur sa foi et sur le surnaturel.]]></description>
+            <pubDate>Sun, 23 Aug 1970 12:00:51 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/podcasts/hg/JEANNE_D_ARC/JEANNE_D_ARC_13_13.mp3" length="36332807" type="audio/mpeg"/>
+            <guid isPermaLink="false">5D6C37AF-92C1-4BFD-9535-66A980647E8B</guid>
+            <dc:creator>Henri Guillemin</dc:creator>
+        </item>
+    </channel>
+</rss>

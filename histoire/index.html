@@ -1,0 +1,54 @@
+---
+layout: podcast
+title: Histoire
+---
+
+<div class="row">
+
+  <div class="col-md-3">
+
+    <h4>Henri Guillemin</h4>
+
+    <p style="text-align: justify">
+    Historien, critique littéraire, conférencier et polémiste français reconnu
+    pour ses talents de conteur historique et pour ses travaux sur les grands
+    personnages de l'histoire de France. Il est aujourd'hui encore critiqué ou
+    admiré pour son honnêteté vis-à-vis de l'histoire et pour ses révélations
+    sur certaines grandes personnalités et certaines grandes affaires de
+    l'histoire française.
+    </p>
+  
+    <p style="text-align: right">
+    <small>
+      Source <a href="//fr.wikipedia.org/wiki/Henri_Guillemin">Wikipédia</a>
+    </small>
+    </p>
+
+  </div>
+
+  <div class="col-md-9">
+
+    <ul class="nav nav-tabs nav-justified">
+      <li class="active"><a href="#jda" data-toggle="tab">Jeanne d'Arc</a></li>
+      <li class><a href="#dreyfus" data-toggle="tab">L'Affaire Dreyfus</a></li>
+    </ul>
+
+    <div id="tab-target" class="tab-content" style="margin-top: -1px;">
+      <div id="dreyfus" class="tab-pane active in">
+        <div class="podcast" name="/feeds/dreyfus.xml"></div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+<script>
+
+  $('#myTab a').click(function (e) {
+    e.preventDefault()
+    $(this).tab('show')
+  })
+
+</script>
+
