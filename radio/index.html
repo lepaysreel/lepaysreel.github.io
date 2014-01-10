@@ -7,6 +7,14 @@ title: Radio
 
   <div class="col-md-3">
 
+    <h1>{{ page.title }}</h1>
+
+    <ul class="nav nav-pills nav-stacked">
+      <li class="active"><a href="#ljrf" data-toggle="tab">Résistance Française</a></li>
+      <li class><a href="#ljpmc" data-toggle="tab">Paul-Marie Coûteaux</a></li>
+      <li class><a href="#pppr" data-toggle="tab">Pierre Jovanovic</a></li>
+    </ul>
+
     <h4>Radio Courtoisie</h4>
 
     <p style="text-align: justify">
@@ -47,13 +55,7 @@ title: Radio
 
   <div class="col-md-9">
 
-    <ul class="nav nav-tabs nav-justified">
-      <li class="active"><a href="#ljrf" data-toggle="tab">Résistance Française</a></li>
-      <li class><a href="#ljpmc" data-toggle="tab">Paul-Marie Coûteaux</a></li>
-      <li class><a href="#pppr" data-toggle="tab">Pierre Jovanovic</a></li>
-    </ul>
-
-    <div id="tab-target" class="tab-content" style="margin-top: -1px;">
+    <div id="tab-target" class="tab-content">
       <div id="ljrf" class="tab-pane active in">
         <div class="podcast" name="/feeds/ljrf.xml"></div>
       </div>

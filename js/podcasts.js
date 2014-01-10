@@ -86,11 +86,12 @@ function loadPodcast(div)
 
   for (var j = 0; j < Items.length; j++)
   {
-    doTitle(Col, Items[j]);
-    doSubtitle(Col, Items[j]);
-    doDescription(Col, Items[j]);
+    doTitle(div, Items[j]);
+    doSubtitle(div, Items[j]);
+    doDescription(div, Items[j]);
 
-    // doAudioElement(Col, Items[j]);
+    var hr = document.createElement("hr");
+    div.appendChild(hr);
   }
 }
 
