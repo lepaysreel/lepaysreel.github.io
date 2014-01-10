@@ -10,6 +10,10 @@
   title: "La Commune de Paris"
   url: /feeds/commune.xml
 
+- tag: aaa
+  title: "L'Autre Avant Guerre"
+  url: /feeds/aaa.xml
+
 - tag: dreyfus
   title: "L'Affaire Dreyfus"
   url: /feeds/dreyfus.xml
