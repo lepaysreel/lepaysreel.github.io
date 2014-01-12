@@ -3,13 +3,13 @@ layout: base
 ---
 
 <body class="normal" onload="loadPodcasts()">
-{% include header.html %}
 
-  <div class="container">
+  {% include header.html %}
 
-    {{ content }}
+  <div id="wrap"> <div class="container">
+  {{ content }}
+  </div></div>
 
-  </div>
+  {% include footer.html %}
 
-{% include footer.html %}
 </body>
