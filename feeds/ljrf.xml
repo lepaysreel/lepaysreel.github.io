@@ -4,11 +4,11 @@
         <title>Libre Journal de la Résistance Française</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
         <description>Le libre journal de la résistance française</description>
-        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sun, 12 Jan 2014 16:52:16 -0500</pubDate>
-        <lastBuildDate>Sun, 12 Jan 2014 16:52:16 -0500</lastBuildDate>
+        <pubDate>Mon, 20 Jan 2014 11:40:55 -0500</pubDate>
+        <lastBuildDate>Mon, 20 Jan 2014 11:40:55 -0500</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -19,6 +19,15 @@
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title>Commentaire de l'actualité ; Du bon chocolat ; Témoignage sur la situation en Syrie</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140115-1800-2100.mp3</link>
+            <description><![CDATA[Gérard Marin, assisté de Michelle, recevait Georges Clément, écrivain, Jean des Cars, journaliste, historien, Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du Syndicat hippique national, Renaud Camus, écrivain, Jean-Claude Berton, maître chocolatier et Jean-Pierre Willem, médecin, chirurgien. La première partie de l'émission était consacrée à l'actualité politique française et à celle tragique des chrétiens en Syrie, la seconde aux vertus curatives et gustatives du chocolat présentées par un maître chocolatier de renom.]]></description>
+            <pubDate>Wed, 15 Jan 2014 18:00:02 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140115-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">19B3E092-2E45-473A-8867-96A102CA50C7</guid>
+            <dc:creator>Gérard Marin</dc:creator>
+        </item>
+        <item>
             <title>La faillite de l'art contemporain ; Agatha Christie ; Le martyre du Kossovo</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140108-1800-2100.mp3</link>
             <description><![CDATA[Emmanuel Ratier recevait Aude de Kerros, peintre, sculpteur, Camille Galic, journaliste, écrivain et Nikola Mirkovic, expert en relations internationales, pour une émission portant d'abord sur la dégradation contemporaine de l'art, traitée à l'occasion de la sortie du livre 1983-2013 Années noires de la peinture : une mise à mort bureaucratique ? paru aux éditions Pierre-Guillaume de Roux, puis sur une approche hétérodoxe d'Agatha Christie suite à la publication de sa biographie aux éditions Pardès et enfin à un retour sur l'histoire mouvementée des Balkans grâce au livre Le martyre du Kosovo paru chez Jean Picollec.]]></description>
@@ -26,6 +35,15 @@
             <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140108-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
             <guid isPermaLink="false">5D6C37AF-92C1-4BFD-9535-66A980647E8B</guid>
             <dc:creator>Emmanuel Ratier</dc:creator>
+        </item>
+        <item>
+            <title>Voeux du président de Radio Courtoisie ; Nelson Mandela ; Le système ; Rendez-vous patriotiques ; Actualité de la droite de la droite ; Walt Disney</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140101-1800-2100.mp3</link>
+            <description><![CDATA[Martial Bild, assisté de Nathalie Raffard, Charles-Henry d'Elloy et Pierre de Laubier, recevait Henry de Lesquen, président de Radio Courtoisie, Jean-Claude Rolinat, journaliste, écrivain, Roland Hélie, directeur de Synthèse Nationale [...]]]></description>
+            <pubDate>Wed, 01 Jan 2014 18:00:02 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140101-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">1A279389-D220-489C-AB76-1A1995CFEA2D</guid>
+            <dc:creator>Martial Bild</dc:creator>
         </item>
         <item>
             <title>Le sort alarmant des chrétiens à travers le monde ; L'exorcisme ; Des femmes dans l'ombre ; L'histoire de Paris par ses cafés</title>

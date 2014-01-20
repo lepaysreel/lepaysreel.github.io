@@ -4,11 +4,11 @@
         <title>Libre Journal de Paul-Marie Coûteaux</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-de-la-nuit/libre-journal-de-paul-marie-couteaux/</link>
         <description>Libre journal de Paul-Marie Coûteaux</description>
-        <generator>Feeder 2.4.4(2.4.4); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sun, 22 Dec 2013 21:14:21 -0500</pubDate>
-        <lastBuildDate>Sun, 22 Dec 2013 21:14:21 -0500</lastBuildDate>
+        <pubDate>Mon, 20 Jan 2014 11:40:59 -0500</pubDate>
+        <lastBuildDate>Mon, 20 Jan 2014 11:40:59 -0500</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,33 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Réussir les 25 et 26 janvier</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140115-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Béatrice Bourges, porte-parole du Printemps français, Christian Vanneste, ancien député, président du RPF, Olivier Perceval, secrétaire général d'Action française, Karim Ouchikh, président exécutif du SIEL, Pierre Lours, chroniqueur, Philippe Mesnard, journaliste, Victor Fouquet, directeur de campagne et Renaud Duval, critique littéraire, pour une émission consacrée à l'actualité politique des élections municipales, au colloque du 25 janvier organisé par le SIEL sur le thème : “L'universel déni des identités”, et au “jour de colère” du 26 janvier.]]></description>
+            <pubDate>Wed, 15 Jan 2014 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140115-2130-2300.mp3" length="36512128" type="audio/mpeg"/>
+            <guid isPermaLink="false">FB045562-F197-4479-9B76-C25E4854456E</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Club des blogueurs : actualité de la rentrée</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140108-2130-2300.mp3</link>
+            <description><![CDATA[Benjamin Blanchard, assisté d'Yves Le Floch, recevait Paul-Marie Coûteaux, ancien député français au Parlement européen, Léopold Gauthier, chroniqueur, Carl Moy-Ruifey, rédacteur en chef du blogue Le rouge et le noir,  [...]]]></description>
+            <pubDate>Wed, 08 Jan 2014 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140108-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">E351036B-5E73-4D41-A2E5-6A4F60FA9FA4</guid>
+            <dc:creator>Benjamin Blanchard</dc:creator>
+        </item>
+        <item>
+            <title>L'éolien, la grande escroquerie</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140101-2130-2300.mp3</link>
+            <description><![CDATA[Benjamin Blanchard, assisté d'Yves Le Floch, recevait Léopold Gauthier, chroniqueur, Louis Marin, président d'une association anti-éoliennes en Basse Normandie, Pierre Marceau, président de Brise des fiefs et Charlotte Dumont, présidente [...]]]></description>
+            <pubDate>Wed, 01 Jan 2014 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140101-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">579B4952-FBE4-4256-8F46-16A13CF08FF2</guid>
+            <dc:creator>Benjamin Blanchard</dc:creator>
+        </item>
         <item>
             <title>Préparer Noël, la table et la musique</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20131218-2130-2300.mp3</link>
