@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 20 Jan 2014 11:40:55 -0500</pubDate>
-        <lastBuildDate>Mon, 20 Jan 2014 11:40:55 -0500</lastBuildDate>
+        <pubDate>Sat, 25 Jan 2014 13:31:16 -0500</pubDate>
+        <lastBuildDate>Sat, 25 Jan 2014 13:31:16 -0500</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -18,6 +18,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Nouvelles de la réplique ; Le gouvernement Hollande</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140122-1800-2100.mp3</link>
+            <description><![CDATA[Bernard Antony, assisté de Jeanne Smits, recevait Vivien Hoch, chercheur en philosophie, Pierre Henri, politologue, Jérôme Triomphe, avocat, Charles de Meyer, assistant parlementaire et Jacques Bompard, député, maire de la ville d'Orange, pour une émission consacrée à l'actualité politique, culturelle et religieuse à travers la chronique “nouvelles de la réplique” et aux attaques du gouvernement Hollande contre la culture de vie.]]></description>
+            <pubDate>Wed, 22 Jan 2014 18:00:02 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140122-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">18A2474C-AD54-4335-9FAB-BC9C1B6B59FF</guid>
+            <dc:creator>Bernard Antony</dc:creator>
+        </item>
         <item>
             <title>Commentaire de l'actualité ; Du bon chocolat ; Témoignage sur la situation en Syrie</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140115-1800-2100.mp3</link>
