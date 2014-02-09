@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.1 (Build 13B3116) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 20 Jan 2014 11:40:59 -0500</pubDate>
-        <lastBuildDate>Mon, 20 Jan 2014 11:40:59 -0500</lastBuildDate>
+        <pubDate>Sat, 08 Feb 2014 22:46:28 -0500</pubDate>
+        <lastBuildDate>Sat, 08 Feb 2014 22:46:28 -0500</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,33 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Les élections municipales à Paris</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140205-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Wallerand de Saint-Just, avocat, Michel Bulté, ingénieur, Élie Hatem, avocat, Gérard David, chef d'entreprise, Bruno Clavet, étudiant et Renaud Duval, critique littéraire, pour une émission consacrée aux élections municipales à Paris.]]></description>
+            <pubDate>Wed, 05 Feb 2014 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140205-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">883280CC-F529-4CBE-AEBE-44AE7B86F8D2</guid>
+            <dc:creator>Benjamin Blanchard</dc:creator>
+        </item>
+        <item>
+            <title>Quelles suites au Jour de colère ?</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140129-2130-2300.mp3</link>
+            <description><![CDATA[Benjamin Blanchard, assisté d'Yves Le Floch, recevait François Billot de Lochner, président de Liberté Politique et de France Audace, Jean-Yves le Gallou, président de Polémia, Hélène Rochefort, porte-parole du collectif [...]]]></description>
+            <pubDate>Wed, 29 Jan 2014 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140129-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">F8617A3E-CFFA-4BF6-8697-B30E9EADD513</guid>
+            <dc:creator>Benjamin Blanchard</dc:creator>
+        </item>
+        <item>
+            <title>Actualité politique ; le club de la presse</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140122-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjmanin Blanchard, recevait Christophe Geffroy, journaliste, fondateur La Nef, Jean-Yves Le Gallou, président de la fondation Polémia, l'abbé Guillaume de Tanouärn, Emmanuel Ratier, journaliste, écrivain, Laurent [...]]]></description>
+            <pubDate>Wed, 22 Jan 2014 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140122-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">DF79F6A5-76CE-4166-8F0B-6E4CF2A4277A</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>Réussir les 25 et 26 janvier</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140115-2130-2300.mp3</link>
