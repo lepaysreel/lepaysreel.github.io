@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Tue, 04 Mar 2014 07:48:48 -0500</pubDate>
-        <lastBuildDate>Tue, 04 Mar 2014 07:48:48 -0500</lastBuildDate>
+        <pubDate>Fri, 07 Mar 2014 10:32:56 -0500</pubDate>
+        <lastBuildDate>Fri, 07 Mar 2014 10:32:56 -0500</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -18,6 +18,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>L'escroquerie de la théorie du genre ; L'histoire secrète du prieuré de Sion</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140305-1800-2100.mp3</link>
+            <description><![CDATA[Emmanuel Ratier recevait Farida Belghoul, porte-parole de La journée de retrait de l'école, Alain de Benoist, philosophe, Geneviève Béduneau, écrivain, Arnaud de l'Estoile, écrivain et Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du syndicat hippique national, pour une émission consacrée à l'escroquerie de la théorie du genre et à l'histoire secrète du prieuré de Sion.]]></description>
+            <pubDate>Wed, 05 Mar 2014 18:00:07 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140305-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">6B5131AA-FDD2-47A5-BFBD-055959E06252</guid>
+            <dc:creator>Emmanuel Ratier</dc:creator>
+        </item>
         <item>
             <title>L'Ukraine peut-elle éviter le chaos ? La détresse des chrétiens d'Orient ; Pour un référendum sur l'immigration en France</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140226-1800-2100.mp3</link>
