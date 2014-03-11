@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Tue, 04 Mar 2014 07:48:45 -0500</pubDate>
-        <lastBuildDate>Tue, 04 Mar 2014 07:48:45 -0500</lastBuildDate>
+        <pubDate>Tue, 11 Mar 2014 08:32:57 -0400</pubDate>
+        <lastBuildDate>Tue, 11 Mar 2014 08:32:57 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Commentaire de l'actualité politique ; Les élections municipales à Paris ; Hommage au professeur Hervé Coutau-Bégarie</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140305-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Gérard David, ancien directeur des relations extérieures de Dassault-Aviation, Luc Le Garsmeur, chargé de publications, Ludovic Lefebvre, écrivain, Pierre Lours, chroniqueur, Élie Hatem, avocat, Jean-Pierre Blanchard, pasteur, président de l'Action sociale et populaire et Martin Motte, historien, pour une émission consacrée à commenter l'actualité politique, aux élections municipales à Paris et à rendre hommage au professeur Hervé Coutau-Bégarie.]]></description>
+            <pubDate>Wed, 05 Mar 2014 21:30:35 -0500</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140305-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">79858C3C-393F-4B35-85EE-3782871E10E2</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>L'Ukraine ; Le traité de libre-échange transatlantique ; Nouvelle affaire</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140226-2130-2300.mp3</link>
