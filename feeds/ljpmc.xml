@@ -4,11 +4,11 @@
         <title>Libre Journal de Paul-Marie Coûteaux</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-de-la-nuit/libre-journal-de-paul-marie-couteaux/</link>
         <description>Libre journal de Paul-Marie Coûteaux</description>
-        <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.4.6(2.4.6); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Tue, 11 Mar 2014 08:32:57 -0400</pubDate>
-        <lastBuildDate>Tue, 11 Mar 2014 08:32:57 -0400</lastBuildDate>
+        <pubDate>Mon, 17 Mar 2014 08:08:51 -0400</pubDate>
+        <lastBuildDate>Mon, 17 Mar 2014 08:08:51 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Commentaire de l'actualité politique ; Les jeunes et la politique</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140312-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Damien, recevait Frédéric Pichon, avocat, Bruno Clavet, tête de liste FN-RBM dans le troisième arrondissement de Paris, Gaëtan Dussausaye, tête de liste FN-RBM dans le onzième arrondissement de Paris, Alexandre Apreval, Jean-Yves Dufour, et Laure Fouré, membres du SIEL et Claire Destéron, étudiante, pour aborder les sujets suivants : “commentaire de l'actualité politique, les jeunes et la politique”.]]></description>
+            <pubDate>Wed, 12 Mar 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140312-2130-2300.mp3" length="45536128" type="audio/mpeg"/>
+            <guid isPermaLink="false">AB061A0D-E17A-45A6-985D-5EDF4BBA3991</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>Commentaire de l'actualité politique ; Les élections municipales à Paris ; Hommage au professeur Hervé Coutau-Bégarie</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140305-2130-2300.mp3</link>

@@ -4,11 +4,11 @@
         <title>Libre Journal de la Résistance Française</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
         <description>Le libre journal de la résistance française</description>
-        <generator>Feeder 2.4.5(2.4.5); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.4.6(2.4.6); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Fri, 07 Mar 2014 10:32:56 -0500</pubDate>
-        <lastBuildDate>Fri, 07 Mar 2014 10:32:56 -0500</lastBuildDate>
+        <pubDate>Mon, 17 Mar 2014 08:08:47 -0400</pubDate>
+        <lastBuildDate>Mon, 17 Mar 2014 08:08:47 -0400</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -18,6 +18,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Libres propos sur l'immigration ; Commentaire de l'actualité politique ; Hommage aux victimes du 19 mars 1962 ; Conseils pour vieillir en bonne forme</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140312-1800-2100.mp3</link>
+            <description><![CDATA[Gérard Marin, assisté de Jacqueline, recevait Pierre Cassen, président de Riposte Laïque, Laurent Wetzel, historien, René Marchand, islamologue, écrivain, Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du Syndicat hippique national, Bernard Coll, secrétaire général de Jeune pied-noir et Jean-Pierre Willem, médecin, pour aborder les sujets suivants : “Libres propos sur l'immigration, commentaire de l'actualité politique, hommage aux victimes du 19 mars 1962, conseils pour vieillir en bonne forme”.]]></description>
+            <pubDate>Wed, 12 Mar 2014 18:00:07 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140312-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">E8B729D9-2C97-408B-AD56-47029784CF53</guid>
+            <dc:creator>Gérard Marin</dc:creator>
+        </item>
         <item>
             <title>L'escroquerie de la théorie du genre ; L'histoire secrète du prieuré de Sion</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140305-1800-2100.mp3</link>
