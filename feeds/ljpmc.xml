@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.6(2.4.6); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 17 Mar 2014 08:08:51 -0400</pubDate>
-        <lastBuildDate>Mon, 17 Mar 2014 08:08:51 -0400</lastBuildDate>
+        <pubDate>Mon, 24 Mar 2014 10:42:53 -0400</pubDate>
+        <lastBuildDate>Mon, 24 Mar 2014 10:42:53 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Les élections municipales</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140319-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjamin Blanchard, recevait Philippe Martel, tête de liste FN-RBM dans le dix-huitième arrondissement de Paris, Lucia Laporte, tête de liste SIEL-RBM dans le cinquième arrondissement de Paris, Christian Vauge, tête de liste SIEL-RBM dans le douzième arrondissement de Paris, Alexandre Delport, tête de liste SIEL-RBM à Epône, Steven Vallée, candidat SIEL à Gamaches, Christian Combaz, écrivain, et Pierre Lours, chroniqueur, pour aborder le sujet suivant : “les élections municipales”.]]></description>
+            <pubDate>Wed, 19 Mar 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140319-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">4865FFD6-C411-40C4-94B4-C28A5C60CE59</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>Commentaire de l'actualité politique ; Les jeunes et la politique</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140312-2130-2300.mp3</link>
