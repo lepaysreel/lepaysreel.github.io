@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.6(2.4.6); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 24 Mar 2014 10:42:57 -0400</pubDate>
-        <lastBuildDate>Mon, 24 Mar 2014 10:42:57 -0400</lastBuildDate>
+        <pubDate>Wed, 02 Apr 2014 08:24:12 -0400</pubDate>
+        <lastBuildDate>Wed, 02 Apr 2014 08:24:12 -0400</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -18,6 +18,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Les théories du genre ou les délires du genre ; Les objets connectés ; Juan Perón</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140326-1800-2100.mp3</link>
+            <description><![CDATA[Martial Bild, assisté de Guillaume Dameron, Charles-Henri d'Elloy et Pierre de Laubier, recevait Olivier Vial, président de l'UNI et de l'Observatoire de la théorie du genre, Xavier Guillon, directeur de la stratégie et de la santé à Cityzen Sciences, Roland Hélie, directeur de Synthèse Nationale et Jean-Claude Rolinat, journaliste, écrivain. Thèmes : “les théories du genre, les objets connectés, Juan Perón”.]]></description>
+            <pubDate>Wed, 26 Mar 2014 18:00:07 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140326-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">AEC4D0DD-BEED-4F9D-BDA4-E078EDF94DDF</guid>
+            <dc:creator>Martial Bild</dc:creator>
+        </item>
         <item>
             <title>Nouvelles de la réplique ; Les femmes</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140319-1800-2100.mp3</link>

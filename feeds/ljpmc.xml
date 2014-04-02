@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.6(2.4.6); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 24 Mar 2014 10:42:53 -0400</pubDate>
-        <lastBuildDate>Mon, 24 Mar 2014 10:42:53 -0400</lastBuildDate>
+        <pubDate>Wed, 02 Apr 2014 08:24:10 -0400</pubDate>
+        <lastBuildDate>Wed, 02 Apr 2014 08:24:10 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Les élections municipales à Paris et en Île-de-France ; L'Ukraine : la politique de Poutine est-elle habile ? ; Les chrétiens chaldéens d'Irak</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140326-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Charles Beigbeder, entrepreneur, candidat « Paris libéré » au second tour des élections municipales dans le huitième arrondissement de Paris, Alexandre Delport, haut fonctionnaire, candidat SIEL-RBM au second tour des élections municipales à Epône, Luc Le Garsmeur, enseignant, tête de liste SIEL-RBM dans le dixième arrondissement de Paris, Louis André, responsable des « Jeunes du SIEL » à Paris, Pierre-Alexandre Bouclay, journaliste, et Benjamin Blanchard, trésorier de SOS Chrétiens d'Orient. Thèmes : “les élections municipales à Paris et en Île-de-France, l'Ukraine : la politique de Poutine est-elle habile ? les chrétiens chaldéens d'Irak”.]]></description>
+            <pubDate>Wed, 26 Mar 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140326-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">A97EEB29-8BB9-4DC6-8B16-F9B9EBF853B4</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>Les élections municipales</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140319-2130-2300.mp3</link>
