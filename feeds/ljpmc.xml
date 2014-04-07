@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.6(2.4.6); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Wed, 02 Apr 2014 08:24:10 -0400</pubDate>
-        <lastBuildDate>Wed, 02 Apr 2014 08:24:10 -0400</lastBuildDate>
+        <pubDate>Mon, 07 Apr 2014 08:26:26 -0400</pubDate>
+        <lastBuildDate>Mon, 07 Apr 2014 08:26:26 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Commentaire de l'actualité politique ; Développement du mouvement identitaire ; Actualités syriennes ; Chronique culturelle</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140402-2130-2300.mp3</link>
+            <description><![CDATA[Benjamin Blanchard, assisté de Robert Scott, recevait Damien Rieu, porte-parole de Génération identitaire, Charles de Meyer, rédacteur en chef de Nouvel arbitre, Léna Mabardi, directrice des actualités à Syrian TV et Hélène Hardy, journaliste. Thèmes : “commentaire de l'actualité politique, développement du mouvement identitaire, actualités syriennes, chronique culturelle”. Avec la participation de Paul-Marie Coûteaux.]]></description>
+            <pubDate>Wed, 02 Apr 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140402-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">CF16C761-C45B-40B9-A076-53C30F86F68E</guid>
+            <dc:creator>Benjamin Blanchard</dc:creator>
+        </item>
         <item>
             <title>Les élections municipales à Paris et en Île-de-France ; L'Ukraine : la politique de Poutine est-elle habile ? ; Les chrétiens chaldéens d'Irak</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140326-2130-2300.mp3</link>
