@@ -7,8 +7,8 @@
         <generator>Feeder 2.4.6(2.4.6); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 07 Apr 2014 08:26:26 -0400</pubDate>
-        <lastBuildDate>Mon, 07 Apr 2014 08:26:26 -0400</lastBuildDate>
+        <pubDate>Mon, 14 Apr 2014 20:47:55 -0400</pubDate>
+        <lastBuildDate>Mon, 14 Apr 2014 20:47:55 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Commentaire de l'actualité politique ; L'affaire Louis XVII</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140409-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjamin Blanchard, recevait Olivier Perceval, secrétaire général de l'Action française, Christine Boutin, ancienne présidente du Parti Chrétien Démocrate et Hugues Trousset, avocat au barreau des Hauts-de-Seine. Thèmes : “commentaire de l'actualité politique, l'affaire Louis XVII”.]]></description>
+            <pubDate>Wed, 09 Apr 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140409-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">5E481C9E-9D00-4661-940A-00956B7CB8E8</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>Commentaire de l'actualité politique ; Développement du mouvement identitaire ; Actualités syriennes ; Chronique culturelle</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140402-2130-2300.mp3</link>
