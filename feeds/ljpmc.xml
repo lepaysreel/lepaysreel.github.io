@@ -4,11 +4,11 @@
         <title>Libre Journal de Paul-Marie Coûteaux</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-de-la-nuit/libre-journal-de-paul-marie-couteaux/</link>
         <description>Libre journal de Paul-Marie Coûteaux</description>
-        <generator>Feeder 2.4.6(2.4.6); Mac OS X Version 10.9.2 (Build 13C64) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.1(2.5.1); Mac OS X Version 10.9.2 (Build 13C1021) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 14 Apr 2014 20:47:55 -0400</pubDate>
-        <lastBuildDate>Mon, 14 Apr 2014 20:47:55 -0400</lastBuildDate>
+        <pubDate>Fri, 25 Apr 2014 13:29:22 -0400</pubDate>
+        <lastBuildDate>Fri, 25 Apr 2014 13:29:22 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Club de la presse ; Actualité internationale</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140416-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, recevait Richard Labévière, journaliste, écrivain, et Jean-Yves Le Gallou, président de Polémia. Thèmes : “club de la presse, l'actualité internationale”.]]></description>
+            <pubDate>Wed, 16 Apr 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140416-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">C626DE8C-A3E9-4B04-B36C-6A7843EDB268</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>Commentaire de l'actualité politique ; L'affaire Louis XVII</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140409-2130-2300.mp3</link>
