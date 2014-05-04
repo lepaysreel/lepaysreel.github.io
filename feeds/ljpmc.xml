@@ -7,8 +7,8 @@
         <generator>Feeder 2.5.1(2.5.1); Mac OS X Version 10.9.2 (Build 13C1021) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Fri, 25 Apr 2014 13:29:22 -0400</pubDate>
-        <lastBuildDate>Fri, 25 Apr 2014 13:29:22 -0400</lastBuildDate>
+        <pubDate>Sun, 04 May 2014 15:50:10 -0400</pubDate>
+        <lastBuildDate>Sun, 04 May 2014 15:50:10 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,24 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Europe / Occident : la mesure du déclin ; Voyage en Irak</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140430-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux, assisté de Benjamin Blanchard, recevait Françoise Bonardel, professeur de philosophie, écrivain, Alain de Benoist, journaliste, écrivain, Paul-François Paoli, essayiste et Pascal Eysseric, rédacteur en chef de la revue Éléments. Thèmes : « Europe / Occident : la mesure du déclin, voyage en Irak ».]]></description>
+            <pubDate>Wed, 30 Apr 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140430-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">41B3233E-4734-4D6C-82C3-2B7FB7E613E8</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Actualité politique intérieure française ; Chronique insolente</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140423-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Emmanuel Ratier, journaliste, écrivain, Catherine Rouvier, professeur de droit, Christine Clerc, journaliste, Maurice de Boisséson, analyste financier, et Pierre Lours, chroniqueur, sur les thèmes suivants : “actualité [...]]]></description>
+            <pubDate>Wed, 23 Apr 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140423-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">59870F3D-F356-4C6B-B6A9-84A5B9A51817</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>Club de la presse ; Actualité internationale</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140416-2130-2300.mp3</link>
