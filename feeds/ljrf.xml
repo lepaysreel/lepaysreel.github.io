@@ -4,11 +4,11 @@
         <title>Libre Journal de la Résistance Française</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
         <description>Le libre journal de la résistance française</description>
-        <generator>Feeder 2.5.1(2.5.1); Mac OS X Version 10.9.2 (Build 13C1021) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.2(2.5.2); Mac OS X Version 10.9.3 (Build 13D65) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 12 May 2014 08:45:15 -0400</pubDate>
-        <lastBuildDate>Mon, 12 May 2014 08:45:15 -0400</lastBuildDate>
+        <pubDate>Tue, 27 May 2014 13:25:48 -0400</pubDate>
+        <lastBuildDate>Tue, 27 May 2014 13:25:48 -0400</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -18,6 +18,24 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Les euro-sceptiques prennent d'assaut le Parlement européen ; Halal, la vigilance s'organise ; Les commémorations du 6 juin 1944 ; Chroniques</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140521-1800-2100.mp3</link>
+            <description><![CDATA[Martial Bild, assisté de de Nathalie Raffard, Charles-Henry d'Elloy et Pierre de Laubier, recevait Lionel Baland, journaliste, écrivain ; Alain de Peretti, vétérinaire, président de l'association Vigilance Halal et Georges Bernage, éditeur. Thèmes : “Les euro-sceptiques prennent d'assaut le Parlement européen ; Halal, la vigilance s'organise ; Les commémorations du 6 juin 1944 ; Chroniques”.]]></description>
+            <pubDate>Wed, 21 May 2014 18:00:07 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140521-1800-2100.mp3" length="86448128" type="audio/mpeg"/>
+            <guid isPermaLink="false">A16EE4B7-E99A-48C7-8428-2780B0CEA1E0</guid>
+            <dc:creator>Martial Bild</dc:creator>
+        </item>
+        <item>
+            <title>Nouvelles de la réplique ; Histoire du chœur Montjoie Saint-Denis</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140514-1800-2100.mp3</link>
+            <description><![CDATA[Bernard Antony, assisté de Pierre Henri, recevait Vivien Hoch, chargé de communication de l'AGRIF, Roger Holeindre, ancien député, président du Cercle national des combattants, Jacques Arnould, président du chœur Montjoie [...]]]></description>
+            <pubDate>Wed, 14 May 2014 18:00:07 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140514-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">D95FF680-5561-41A7-8F1B-76AD2671FAC3</guid>
+            <dc:creator>Bernard Antony</dc:creator>
+        </item>
         <item>
             <title>L'Europe et les élections européennes ; Commentaire de l'actualité politique</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140507-1800-2100.mp3</link>
