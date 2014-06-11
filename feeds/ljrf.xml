@@ -7,8 +7,8 @@
         <generator>Feeder 2.5.2(2.5.2); Mac OS X Version 10.9.3 (Build 13D65) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Fri, 30 May 2014 10:33:20 -0400</pubDate>
-        <lastBuildDate>Fri, 30 May 2014 10:33:20 -0400</lastBuildDate>
+        <pubDate>Wed, 11 Jun 2014 13:29:05 -0400</pubDate>
+        <lastBuildDate>Wed, 11 Jun 2014 13:29:05 -0400</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -18,6 +18,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Radio Londres ; Manuel Valls ; Chronique du marquis ; Commentaire de l'actualité politique ; Conseils pour surmonter pièges et obstacles de l'amour</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140604-1800-2100.mp3</link>
+            <description><![CDATA[Gérard Marin, assisté de Michelle, recevait Jacques Pessis, journaliste, écrivain, producteur, Louis Fontaine, mémorialiste, écrivain, Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du Syndicat hippique national, Emmanuel Ratier, journaliste, écrivain et Marie-Claire Zimbacca, massothérapeute. Thèmes : « l'histoire de Radio Londres ; portait de Manuel Valls ; chronique du marquis ; commentaire de l'actualité politique ; conseils pour surmonter pièges et obstacles de l'amour. »]]></description>
+            <pubDate>Wed, 04 Jun 2014 18:00:07 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140604-1800-2100.mp3" length="86464128" type="audio/mpeg"/>
+            <guid isPermaLink="false">DD76F358-2A0E-4B24-9C68-FF4FB578F593</guid>
+            <dc:creator>Gérard Marin</dc:creator>
+        </item>
         <item>
             <title>Le séisme du 25 mai ; L'Allemagne buissonnière ; Ces guerres qu'on aurait pu éviter</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140528-1800-2100.mp3</link>

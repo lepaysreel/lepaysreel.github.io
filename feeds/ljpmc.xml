@@ -7,8 +7,8 @@
         <generator>Feeder 2.5.2(2.5.2); Mac OS X Version 10.9.3 (Build 13D65) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Tue, 27 May 2014 13:25:45 -0400</pubDate>
-        <lastBuildDate>Tue, 27 May 2014 13:25:45 -0400</lastBuildDate>
+        <pubDate>Wed, 11 Jun 2014 13:29:11 -0400</pubDate>
+        <lastBuildDate>Wed, 11 Jun 2014 13:29:11 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,24 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Politique et philosophie, la combinaison est-elle possible ?</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140604-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Renaud Camus, écrivain, Philippe de Saint Robert, ancien commissaire général à la langue française, Pierre Lours, chroniqueur, Rémi Soulié, essayiste, Alexandre Cuignache, responsable des jeunes du Siel et Frédéric Siard, professeur d'art appliqué, sur le thème : « Politique et philosophie, la combinaison est-elle possible ? »]]></description>
+            <pubDate>Wed, 04 Jun 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140604-2130-2300.mp3" length="43264128" type="audio/mpeg"/>
+            <guid isPermaLink="false">04207292-1811-49F4-9AA4-42D9AD9F1A67</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
+        <item>
+            <title>Situation politique de la France</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140528-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux recevait Nicolas Dupont-Aignan, député de l'Essonne, maire de la ville d'Yerres, président de Debout la république, Béatrice Bourges, porte-parole du Printemps français, Marc Delescluse, conseiller en communication, Luc [...]]]></description>
+            <pubDate>Wed, 28 May 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140528-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">08C26FE5-624D-4E1A-B8AF-72980BE2E53D</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>De Gaulle et ses jours de déprime ; Les élections européennes ; Retrouvons-nous une jeunesse française ?</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140521-2130-2300.mp3</link>
