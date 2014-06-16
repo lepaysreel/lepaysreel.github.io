@@ -7,8 +7,8 @@
         <generator>Feeder 2.5.2(2.5.2); Mac OS X Version 10.9.3 (Build 13D65) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Wed, 11 Jun 2014 13:29:11 -0400</pubDate>
-        <lastBuildDate>Wed, 11 Jun 2014 13:29:11 -0400</lastBuildDate>
+        <pubDate>Mon, 16 Jun 2014 14:04:30 -0400</pubDate>
+        <lastBuildDate>Mon, 16 Jun 2014 14:04:30 -0400</lastBuildDate>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
             <title>Radio Courtoisie</title>
@@ -17,6 +17,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljpmc.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Actualité européenne ; Les Roms</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140611-2130-2300.mp3</link>
+            <description><![CDATA[Paul-Marie Coûteaux assisté de Victor Grandville recevait Pierre-Alexandre Bouclay, journaliste, écrivain, Christophe Beaudoin, avocat et Christophe Geffroy, directeur de la revue La Nef. Thèmes : “actualité européenne, les Roms”.]]></description>
+            <pubDate>Wed, 11 Jun 2014 21:30:35 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140611-2130-2300.mp3" length="43248128" type="audio/mpeg"/>
+            <guid isPermaLink="false">6D26CF19-4B2A-459E-A849-B032BB6B2D4F</guid>
+            <dc:creator>Paul-Marie Coûteaux</dc:creator>
+        </item>
         <item>
             <title>Politique et philosophie, la combinaison est-elle possible ?</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140604-2130-2300.mp3</link>
