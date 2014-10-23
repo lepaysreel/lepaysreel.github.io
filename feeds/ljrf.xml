@@ -4,11 +4,11 @@
         <title>Libre Journal de la Résistance Française</title>
         <link>http://www.radiocourtoisie.fr/radio-courtoisie/libre-journal-du-soir/libre-journal-de-la-resistance-francaise/</link>
         <description>Le libre journal de la résistance française</description>
-        <generator>Feeder 2.5.3(2.5.3); Mac OS X Version 10.9.5 (Build 13F34) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 2.5.4(1870); Mac OS X Version 10.10 (Build 14A389) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 22 Sep 2014 08:54:29 -0400</pubDate>
-        <lastBuildDate>Mon, 22 Sep 2014 08:54:29 -0400</lastBuildDate>
+        <pubDate>Thu, 23 Oct 2014 07:56:32 -0400</pubDate>
+        <lastBuildDate>Thu, 23 Oct 2014 07:56:32 -0400</lastBuildDate>
         <ttl>1</ttl>
         <image>
             <url>https://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/Radio_Courtoisie_144.png</url>
@@ -18,6 +18,15 @@
             <height>144</height>
         </image>
         <atom:link href="http://lepaysreel.info/feeds/ljrf.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Reconstruire sur des ruines ; François Brigneau, combattant de l'encrier</title>
+            <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20141015-1800-2100.mp3</link>
+            <description><![CDATA[Emmanuel Ratier recevait Laurent Ozon, essayiste, Anne Le Pape, journaliste, écrivain et Jean-Paul Chayrigues de Olmetta, journaliste, écrivain, président d'honneur du syndicat hippique national. Thèmes : « Reconstruire sur des ruines ; François Brigneau, combattant de l'encrier ».]]></description>
+            <pubDate>Thu, 23 Oct 2014 07:56:27 -0400</pubDate>
+            <enclosure url="http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20141015-1800-2100.mp3" length="86442112" type="audio/mpeg"/>
+            <guid isPermaLink="false">9DDEE0CD-C75B-43D9-830E-F81E26C6E2C7</guid>
+            <dc:creator>Emmanuel Ratier</dc:creator>
+        </item>
         <item>
             <title>Le clan de la presse ; Confessions d'un anti-fasciste</title>
             <link>http://dl.dropboxusercontent.com/u/180069534/Podcasts/RC/20140917-1800-2100.mp3</link>
