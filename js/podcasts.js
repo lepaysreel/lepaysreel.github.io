@@ -33,10 +33,12 @@ function doSubtitle(col, item)
 
 function doDescription(col, item)
 {
-  var par = document.createElement("p");
   var desc = item.getElementsByTagName("description")[0];
-  var txt = document.createTextNode(desc.textContent.toString());
-  par.appendChild(txt); col.appendChild(par);
+  if (desc) {
+    var par = document.createElement("p");
+    var txt = document.createTextNode(desc.textContent.toString());
+    par.appendChild(txt); col.appendChild(par);
+  }
 }
 
 function doAudioElement(col, item)
@@ -83,6 +85,7 @@ function loadPodcast(div)
   // Scan the channels
 
   var Items = Channel[0].getElementsByTagName("item");
+  console.log(Items.length)
 
   for (var j = 0; j < Items.length; j++)
   {

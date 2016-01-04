@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Orages d'Acier</title>
+        <link>http://www.meridien-zero.com</link>
+        <description>Si c'est ton premier soir, tu dois combattre !</description>
+        <generator>Feeder 3 3.1.3(2606); Mac OS X Version 10.11.2 (Build 15C50) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Sun, 03 Jan 2016 20:57:39 -0500</pubDate>
+        <lastBuildDate>Sun, 03 Jan 2016 20:57:40 -0500</lastBuildDate>
+        <image>
+            <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
+            <title>Méridien Zéro</title>
+            <link>http://www.meridien-zero.com</link>
+        </image>
+        <atom:link href="http://lepayreel.info/feeds/orages_acier.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Orages d'acier #14</title>
+            <link>http://www.meridien-zero.com/archive/2015/12/20/orages-d-acier-14-5733764.html</link>
+            <description><![CDATA[Ce soir, Orages d'acier vous propose un retour sur cette période que les moins de 30 ans ne peuvent pas connaître... Ce soir sur Kebeka Liberata et demain en podcast sur MZ.]]></description>
+            <pubDate>Sat, 19 Dec 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_20.12.2015.mp3" length="67875953" type="audio/mpeg"/>
+            <guid isPermaLink="false">161F814B-5DE9-4638-821C-EA7F5E543D9C</guid>
+        </item>
+        <item>
+            <title>Orages d'acier #13</title>
+            <link>http://www.meridien-zero.com/archive/2015/12/13/orages-d-acier-13-5730501.html</link>
+            <description><![CDATA[Ce soir, Orages d'acier vous propose un One-K-Show avec Monsieur K en vedette unique et principale. Comme d'habitude, l'émission est retransmise par Kebeka Liberata à 19h00, le lundi à 9h00 et en podcast le soir.]]></description>
+            <pubDate>Sat, 12 Dec 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_13.12.2015.mp3" length="41157987" type="audio/mpeg"/>
+            <guid isPermaLink="false">37DB8533-F0E9-4CFE-A3F0-291DDE67B73D</guid>
+        </item>
+        <item>
+            <title>Orages d'acier #12</title>
+            <link>http://www.meridien-zero.com/archive/2015/12/06/orages-d-acier-12-5727242.html</link>
+            <pubDate>Sat, 05 Dec 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_06.12.2015.mp3" length="57601230" type="audio/mpeg"/>
+            <guid isPermaLink="false">534E67CF-C9C1-4658-B168-9FB40E062848</guid>
+        </item>
+        <item>
+            <title>Orages d'acier #10</title>
+            <link>http://www.meridien-zero.com/archive/2015/11/29/orages-d-acier-10-5723780.html</link>
+            <pubDate>Sat, 28 Nov 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_29.11.2015.mp3" length="62745975" type="audio/mpeg"/>
+            <guid isPermaLink="false">F627EB9E-DD7C-40A1-815D-686613AA95DB</guid>
+        </item>
+        <item>
+            <title>Orages #10</title>
+            <link>http://www.meridien-zero.com/archive/2015/11/22/orages-d-acier-10-5720416.html</link>
+            <description><![CDATA[Cette semaine, l'équipe d'Orages d'acier vous propose une réflexion sur ce qui constitue un aspect essentiel de l'extension du domaine de nos luttes : la résistance aux grands projets inutiles et l'artificialisation de notre environnement. Comme d'habitude, vous retrouvez cette émission dès 19h00 sur Kebeka Liberata puis en podcast sur ce blog.]]></description>
+            <pubDate>Sat, 21 Nov 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_22.11.2015.mp3" length="52305348" type="audio/mpeg"/>
+            <guid isPermaLink="false">6CA6A91E-C7B7-49E0-A661-8FDA1708AF41</guid>
+        </item>
+        <item>
+            <title>Orages d'acier #9</title>
+            <link>http://www.meridien-zero.com/archive/2015/11/15/orages-d-acier-9-5716516.html</link>
+            <pubDate>Sat, 14 Nov 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_15.11.2015.mp3" length="57600482" type="audio/mpeg"/>
+            <guid isPermaLink="false">A22A813B-C995-4C77-B215-791BAAF7FA2C</guid>
+        </item>
+        <item>
+            <title>Orages d'acier #8</title>
+            <link>http://www.meridien-zero.com/archive/2015/11/08/orages-d-acier-8-5712888.html</link>
+            <description><![CDATA[ ]]></description>
+            <pubDate>Sat, 07 Nov 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_08.11.2015.mp3" length="57282004" type="audio/mpeg"/>
+            <guid isPermaLink="false">881E6AEB-2BC2-4843-BA3D-6720ECE59C67</guid>
+        </item>
+        <item>
+            <title>Orages #7</title>
+            <link>http://www.meridien-zero.com/archive/2015/11/01/orages-d-acier-7-5709456.html</link>
+            <pubDate>Sat, 31 Oct 2015 19:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_01.11.2015.mp3" length="57880398" type="audio/mpeg"/>
+            <guid isPermaLink="false">B1E5925B-DA72-47F0-AA2F-875C2DF02160</guid>
+        </item>
+        <item>
+            <title>Orages #6</title>
+            <link>http://www.meridien-zero.com/archive/2015/10/25/orages-d-acier-6-5705662.html</link>
+            <pubDate>Sat, 24 Oct 2015 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_25.10.2015.mp3" length="64186092" type="audio/mpeg"/>
+            <guid isPermaLink="false">A886BBB4-9662-46FD-B345-82DC49E8ACFD</guid>
+        </item>
+        <item>
+            <title>Orages #5</title>
+            <link>http://www.meridien-zero.com/archive/2015/10/18/orages-d-acier-5-5701967.html</link>
+            <description><![CDATA[Cette semaine et après quelques ratés, Orages d'acier vous propose un aperçu sur une question qui suscité moults débats : le terrorisme de synthèse. L'émission sera retransmise sur Kebeka liberata ce soir et demain matin à 9h00 ainsi qu'en podcast sur MZ mardi prochain.]]></description>
+            <pubDate>Sat, 17 Oct 2015 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_18.10.2015.mp3" length="57537359" type="audio/mpeg"/>
+            <guid isPermaLink="false">A2603625-8A2A-4435-97E4-4BC5AD40C0DC</guid>
+        </item>
+        <item>
+            <title>Orages #4</title>
+            <link>http://www.meridien-zero.com/archive/2015/10/12/orages-d-acier-4-5698990.html</link>
+            <description><![CDATA[Chers auditrices et auditeurs,un souci technique a empêché nos camarades d'Orages d'acier de diffuser l'émission#4 en temps et en heure hier soir et en particulier sur Kebeka Liberata. Vous pourrez donc y accéder demain matin grâce au podcast.]]></description>
+            <pubDate>Sat, 10 Oct 2015 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_11.10.2015.mp3" length="118095348" type="audio/mpeg"/>
+            <guid isPermaLink="false">D938A6AD-65FA-4343-AF1D-CE0791C315A7</guid>
+        </item>
+        <item>
+            <title>Orages #3</title>
+            <link>http://www.meridien-zero.com/archive/2015/10/04/orages-d-acier-3-5694659.html</link>
+            <description><![CDATA[Ce soir, l'équipe d'Orages d'acier revient sur ce qui constitue le principal sujet d'inquiétude du moment : la vague des migrants clandestins. L'émission sera diffusée sur Kebeka Liberata à 19h00 et demain matin à 9h00. Le podcast sera disponible mardi sur MZ. ]]></description>
+            <pubDate>Sat, 03 Oct 2015 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_04.10.2015.mp3" length="65161184" type="audio/mpeg"/>
+            <guid isPermaLink="false">54F3F142-ABEA-4A0D-88B4-9262CC1C6E73</guid>
+        </item>
+        <item>
+            <title>Orages d'acier #2 : "Où va le football français ?"</title>
+            <link>http://www.meridien-zero.com/archive/2015/09/27/orages-d-acier-2-5690935.html</link>
+            <description><![CDATA[Cette semaine, la fréquence Orages d'acier traite d'un autre aspect de l'actualité : le foot ! L'émission est diffusée par Kebeka Liberata à 19h00 et rediffusée lundi matin à 8h00. Vous la trouverez mardi en podcast sur le blog MZ.]]></description>
+            <pubDate>Sat, 26 Sep 2015 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_27.09.2015.mp3" length="60544818" type="audio/mpeg"/>
+            <guid isPermaLink="false">D0467AB3-9D6F-4A91-ADF3-36AE6DBC1C67</guid>
+        </item>
+        <item>
+            <title>Orages d'acier : "1984"</title>
+            <link>http://www.meridien-zero.com/archive/2015/09/19/orages-d-acier-5687130.html</link>
+            <description><![CDATA[En cette rentrée 2015, Méridien Zéro vous propose un nouveau rendez-vous pour combler vos longues soirées dominicales : Orages d'acier ! Animée par Monsieur K et des acolytes de haut vol, l'émission sera diffusée chaque dimanche à 19h00 par Kebeka Liberata et sera bien sur disponible en podcast sur notre blog. Vos commentaires sont vivement attendus !]]></description>
+            <pubDate>Sat, 19 Sep 2015 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_20.09.2015.mp3" length="49423034" type="audio/mpeg"/>
+            <guid isPermaLink="false">CBFFAF67-3641-46F9-878E-0DB601578880</guid>
+        </item>
+    </channel>
+</rss>

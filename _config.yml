@@ -3,8 +3,8 @@ description: Site éducatif de réinformation politique et sociale
 
 source:      .
 destination: ./_site
-plugins:     ./_plugins
-layouts:     ./_layouts
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
 include:     ['.htaccess']
 exclude:     []
 keep_files:  ['.git','.svn']
@@ -16,8 +16,6 @@ future:      true
 show_drafts: nil
 limit_posts: 0
 highlighter: pygments
-
-relative_permalinks: true
 
 permalink:     date
 paginate_path: 'page:num'
@@ -39,5 +37,5 @@ maruku:
   use_tex:    false
   use_divs:   false
   png_engine: blahtex
-  png_dir:    images/latex
+  png_dir:    /images/latex
   png_url:    /images/latex

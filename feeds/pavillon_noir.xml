@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pavillon Noir</title>
+        <link>http://www.meridien-zero.com</link>
+        <description>La chronique du lieutenant Sturm.</description>
+        <generator>Feeder 3 3.1.3(2606); Mac OS X Version 10.11.2 (Build 15C50) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Sun, 03 Jan 2016 20:57:56 -0500</pubDate>
+        <lastBuildDate>Sun, 03 Jan 2016 20:57:56 -0500</lastBuildDate>
+        <image>
+            <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
+            <title>Méridien Zéro</title>
+            <link>http://www.meridien-zero.com</link>
+        </image>
+        <atom:link href="http://lepayreel.info/feeds/pavillon_noir.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Pavillon noir #6</title>
+            <link>http://www.meridien-zero.com/archive/2015/12/16/pavillon-noir-5731970.html</link>
+            <description><![CDATA[Chronique du 16 décembre 2015 :: "Il y a une vie après les élections !"]]></description>
+            <pubDate>Tue, 15 Dec 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Pavillon_16.12.2015.mp3" length="38562482" type="audio/mpeg"/>
+            <guid isPermaLink="false">4F18E134-E0B7-4286-93D7-4618381E3F73</guid>
+        </item>
+        <item>
+            <title>Pavillon Noir #5</title>
+            <link>http://www.meridien-zero.com/archive/2015/12/09/pavillon-noir-5728826.html</link>
+            <description><![CDATA[Chronique du 9 décembre 2015 :: "Considérations électorales"]]></description>
+            <pubDate>Tue, 08 Dec 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Pavillon_09.12.2015.mp3" length="39443331" type="audio/mpeg"/>
+            <guid isPermaLink="false">45648021-B85D-45E2-824E-1FA2F7146A67</guid>
+        </item>
+        <item>
+            <title>Pavillon noir #4</title>
+            <link>http://www.meridien-zero.com/archive/2015/12/02/pavillon-noir-5725500.html</link>
+            <description><![CDATA[Chronique du 2 décembre 2015 :: "De DAECH à la République compassionnelle" ]]></description>
+            <pubDate>Tue, 01 Dec 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Pavillon_02.12.2015.mp3" length="40907228" type="audio/mpeg"/>
+            <guid isPermaLink="false">CDDB9391-16C7-470E-BDC1-FEDA0026A3E0</guid>
+        </item>
+        <item>
+            <title>Pavillon Noir #3</title>
+            <link>http://www.meridien-zero.com/archive/2015/11/18/pavillon-noir-5718054.html</link>
+            <description><![CDATA[Chronique du 18 novembre 2015 :: "De l'action révolutionnaire"]]></description>
+            <pubDate>Tue, 17 Nov 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Pavillon_18.11.2015.mp3" length="31125107" type="audio/mpeg"/>
+            <guid isPermaLink="false">AC97ED0C-BDC7-493A-B904-689E49B06C6D</guid>
+        </item>
+        <item>
+            <title>Pavillon Noir #2</title>
+            <link>http://www.meridien-zero.com/archive/2015/11/11/pavillon-noir-5714646.html</link>
+            <description><![CDATA[Chronique du 11 novembre 2015 :: "De l'engagement"Pour joindre le Lieutenant : ltsturm@gmx.fr]]></description>
+            <pubDate>Tue, 10 Nov 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Pavillon_11.11.2015.mp3" length="27861891" type="audio/mpeg"/>
+            <guid isPermaLink="false">04496C2F-13F9-4CAB-B07C-C753FFD62FB7</guid>
+        </item>
+        <item>
+            <title>Pavillon noir #1</title>
+            <link>http://www.meridien-zero.com/archive/2015/11/04/pavillon-noir-5710858.html</link>
+            <description><![CDATA[Chaque mercredi soir, Méridien Zéro vous propose désormais une chronique du Lt Sturm qui, depuis son île (presque) déserte, détaillera et disséquera l'actualité du monde tel qu'il ne va pas. La première est ce soir : à l'abordage !Pour joindre le Lieutenant : ltsturm@gmx.frChronique du 4 novembre 2015 :: "De la soumission"]]></description>
+            <pubDate>Tue, 03 Nov 2015 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Pavillonnoir_04.11.2015.mp3" length="40292846" type="audio/mpeg"/>
+            <guid isPermaLink="false">D8FE1480-0234-44CA-BDDB-4E712012D086</guid>
+        </item>
+    </channel>
+</rss>
