@@ -9,3 +9,7 @@
 - tag: pavillon_noir
   title: Pavillon Noir
   url: /feeds/pavillon_noir.xml
+
+- tag: heure_la_plus_sombre
+  title: L'Heure la plus Sombre
+  url: /feeds/heure_la_plus_sombre.xml
