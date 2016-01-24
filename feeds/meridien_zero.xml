@@ -4,17 +4,25 @@
         <title>Méridien Zéro</title>
         <link>http://www.meridien-zero.com</link>
         <description>A l'abordage et pas de quartier !</description>
-        <generator>Feeder 3 3.1.4(2615); Mac OS X Version 10.11.2 (Build 15C50) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.4(2615); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sat, 16 Jan 2016 12:31:26 -0500</pubDate>
-        <lastBuildDate>Sat, 16 Jan 2016 12:31:26 -0500</lastBuildDate>
+        <pubDate>Sat, 23 Jan 2016 19:29:47 -0500</pubDate>
+        <lastBuildDate>Sat, 23 Jan 2016 19:29:48 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Emission n°260 : "Le monde de la rue. Quelques vérités pour un état des lieux"</title>
+            <link>http://www.meridien-zero.com/archive/2016/01/22/emission-n-260-le-monde-de-la-rue-quelques-verites-pour-un-e-5748627.html</link>
+            <description><![CDATA[Ce soir, Méridien Zéro vous propose une émission tristement d'actualité puisque nous nous pencherons sur la situation des SDF français, à l'occasion de la sortie du livre Etat des lieux. La vérité sur le monde de la rue, publié par nos camarades des Editions du Rubicon. Notre principal invité est Claude Huet, ancien SDF durant une dizaine d'années, président de l'association SOS Sans-abris. Il sera secondé par Thibault Philippe, initiateur du collectif Collectif Morts sous vos yeux, et Roger, militant de Solidarité Populaire, association qui est intégrée dans le réseau du MAS et qui intervient auprès des SDF depuis quelques années.]]></description>
+            <pubDate>Sat, 23 Jan 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_22.01.2016.mp3" length="122374225" type="audio/mpeg"/>
+            <guid isPermaLink="false">57499A68-139B-4E48-AB24-F204360BC6E8</guid>
+        </item>
         <item>
             <title>Emission n°259 : "Volontaire au Liban. 1976-2016, 40 ans de combat"</title>
             <link>http://www.meridien-zero.com/archive/2016/01/15/emission-n-259-volontaire-au-liban-5744983.html</link>
