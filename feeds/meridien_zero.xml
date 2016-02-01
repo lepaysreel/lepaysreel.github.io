@@ -4,17 +4,25 @@
         <title>Méridien Zéro</title>
         <link>http://www.meridien-zero.com</link>
         <description>A l'abordage et pas de quartier !</description>
-        <generator>Feeder 3 3.1.4(2615); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sat, 23 Jan 2016 19:29:47 -0500</pubDate>
-        <lastBuildDate>Sat, 23 Jan 2016 19:29:48 -0500</lastBuildDate>
+        <pubDate>Mon, 01 Feb 2016 07:50:54 -0500</pubDate>
+        <lastBuildDate>Mon, 01 Feb 2016 07:50:54 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Emission n°261 : "Les ONG contre la société civile"</title>
+            <link>http://www.meridien-zero.com/archive/2016/01/29/emission-n-261-les-ong-contre-la-societe-civile-5751947.html</link>
+            <description><![CDATA[Ce vendredi, Méridien Zéro vous propose un éclairage sur le monde foisonnant des Organisations Non Gouvernementales (ONG). Devenues de véritables procureurs médiatiques, ces organisations qui prétendent parler au nom de la société civile ne sont en fait que l'un des acteurs les plus virulents de la mondialisation libérale. Pour évoquer ce sujets, trois invités de choix : Maurice Gendre, Thibault Philippe et Clémentin Hautain. A la barre et à la technique, JLR.]]></description>
+            <pubDate>Sun, 31 Jan 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_29.01.2016.mp3" length="200622467" type="audio/mpeg"/>
+            <guid isPermaLink="false">0DDEE798-A0AE-4044-972A-A1D942990BDA</guid>
+        </item>
         <item>
             <title>Emission n°260 : "Le monde de la rue. Quelques vérités pour un état des lieux"</title>
             <link>http://www.meridien-zero.com/archive/2016/01/22/emission-n-260-le-monde-de-la-rue-quelques-verites-pour-un-e-5748627.html</link>
