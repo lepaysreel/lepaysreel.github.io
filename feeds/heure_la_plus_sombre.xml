@@ -7,14 +7,22 @@
         <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 01 Feb 2016 07:57:06 -0500</pubDate>
-        <lastBuildDate>Mon, 01 Feb 2016 07:57:06 -0500</lastBuildDate>
+        <pubDate>Wed, 03 Feb 2016 12:21:11 -0500</pubDate>
+        <lastBuildDate>Wed, 03 Feb 2016 12:21:12 -0500</lastBuildDate>
         <image>
             <url>http://www.egaliteetreconciliation.fr/local/cache-vignettes/L250xH212/arton34712-fc8ce.jpg</url>
             <title>L'heure la plus sombre</title>
             <link>http://www.egaliteetreconciliation.fr</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/heure_la_plus_sombre.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Faits &amp; Documents</title>
+            <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-no22-Emission-du-1er-fevrier-2016-37543.html</link>
+            <description><![CDATA[Pour ce 22ème numéro de L’Heure la plus sombre, nos journalistes Vincent et Xavier recevaient Vincent, de la revue Faits & Documents, fondée par Emmanuel Ratier.]]></description>
+            <pubDate>Mon, 01 Feb 2016 12:00:00 -0500</pubDate>
+            <enclosure url="http://egaliteetreconciliation.fr/IMG/mp3/2016-02-01_ERFM_HLPS_Ep22.mp3" length="112407360" type="audio/mpeg"/>
+            <guid isPermaLink="false">519445D7-CB61-4A6F-B8A1-9FFE95849BB8</guid>
+        </item>
         <item>
             <title>Alain Escada</title>
             <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-no21-Emission-du-25-janvier-2016-37411.html</link>

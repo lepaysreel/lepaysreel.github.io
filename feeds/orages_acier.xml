@@ -4,17 +4,25 @@
         <title>Orages d'Acier</title>
         <link>http://www.meridien-zero.com</link>
         <description>Si c'est ton premier soir, tu dois combattre !</description>
-        <generator>Feeder 3 3.1.4(2615); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Thu, 28 Jan 2016 17:12:44 -0500</pubDate>
-        <lastBuildDate>Thu, 28 Jan 2016 17:12:45 -0500</lastBuildDate>
+        <pubDate>Wed, 03 Feb 2016 12:22:23 -0500</pubDate>
+        <lastBuildDate>Wed, 03 Feb 2016 12:22:24 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/orages_acier.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Orages d'acier #17</title>
+            <link>http://www.meridien-zero.com/archive/2016/01/31/orages-d-acier-17-5753015.html</link>
+            <description><![CDATA[Ce soir, les camarades d'Orages d'acier se retrouvent pour une discussion autour du projet Paris zéro (pariszero.tumblr.com).]]></description>
+            <pubDate>Sun, 31 Jan 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_31.01.2016.mp3" length="58690527" type="audio/mpeg"/>
+            <guid isPermaLink="false">34B57958-A1CD-42C9-B3ED-FDF8E8F7A8F6</guid>
+        </item>
         <item>
             <title>Orages d'acier #16</title>
             <link>http://www.meridien-zero.com/archive/2016/01/27/orages-d-acier-16-5751177.html</link>
