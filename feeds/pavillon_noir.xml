@@ -4,17 +4,25 @@
         <title>Pavillon Noir</title>
         <link>http://www.meridien-zero.com</link>
         <description>La chronique du lieutenant Sturm.</description>
-        <generator>Feeder 3 3.1.4(2615); Mac OS X Version 10.11.2 (Build 15C50) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 11 Jan 2016 10:39:17 -0500</pubDate>
-        <lastBuildDate>Mon, 11 Jan 2016 10:39:17 -0500</lastBuildDate>
+        <pubDate>Thu, 04 Feb 2016 10:01:58 -0500</pubDate>
+        <lastBuildDate>Thu, 04 Feb 2016 10:01:58 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/pavillon_noir.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Pavillon Noir #8</title>
+            <link>http://www.meridien-zero.com/archive/2016/02/03/pavillon-noir-5754830.html</link>
+            <description><![CDATA[Chronique du 3 février 2016 :: "A quoi ça sert ?"]]></description>
+            <pubDate>Wed, 03 Feb 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Pavillon_03.02.2016.mp3" length="46355939" type="audio/mpeg"/>
+            <guid isPermaLink="false">92640662-D732-45C5-9956-FC939F8318CE</guid>
+        </item>
         <item>
             <title>Pavillon Noir #7</title>
             <link>http://www.meridien-zero.com/archive/2016/01/08/pavillon-noir-5741962.html</link>
