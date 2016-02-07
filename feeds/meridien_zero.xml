@@ -7,14 +7,30 @@
         <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 01 Feb 2016 07:50:54 -0500</pubDate>
-        <lastBuildDate>Mon, 01 Feb 2016 07:50:54 -0500</lastBuildDate>
+        <pubDate>Sun, 07 Feb 2016 11:02:18 -0500</pubDate>
+        <lastBuildDate>Sun, 07 Feb 2016 11:02:19 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Emission n°262 : "Du temps de L'invasion noire"</title>
+            <link>http://www.meridien-zero.com/archive/2016/02/05/emission-n-262-du-temps-de-l-invasion-noire-5755512.html</link>
+            <description><![CDATA[Ce soir, Méridien Zéro vous propose de revenir sur la vie et l'oeuvre d'un auteur aujourd'hui largement oublié mais dont la vie fut à elle seule un roman, le colonel Driant. Pour se faire, Monsieur PGL met Lionel Bosserelle, directeur du Comptoir des éditeurs, à la question. A la technique, Wilsdorf.]]></description>
+            <pubDate>Sat, 06 Feb 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_05.02.2016.mp3" length="140332431" type="audio/mpeg"/>
+            <guid isPermaLink="false">5D351EA6-F418-4702-AB99-7B53320577EE</guid>
+        </item>
+        <item>
+            <title>Revue &amp; Corrigés #3</title>
+            <link>http://www.meridien-zero.com/archive/2016/02/04/revue-corriges-3-5755347.html</link>
+            <description><![CDATA[Revue de presse du 4 février 2016]]></description>
+            <pubDate>Thu, 04 Feb 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/R&amp;C_04.02.2016.mp3" length="103732165" type="audio/mpeg"/>
+            <guid isPermaLink="false">4C8F7797-2DFC-4F41-B7FE-6EAD604F4EB8</guid>
+        </item>
         <item>
             <title>Emission n°261 : "Les ONG contre la société civile"</title>
             <link>http://www.meridien-zero.com/archive/2016/01/29/emission-n-261-les-ong-contre-la-societe-civile-5751947.html</link>
