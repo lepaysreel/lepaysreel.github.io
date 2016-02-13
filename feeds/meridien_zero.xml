@@ -7,14 +7,22 @@
         <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sun, 07 Feb 2016 11:02:18 -0500</pubDate>
-        <lastBuildDate>Sun, 07 Feb 2016 11:02:19 -0500</lastBuildDate>
+        <pubDate>Sat, 13 Feb 2016 13:29:08 -0500</pubDate>
+        <lastBuildDate>Sat, 13 Feb 2016 13:29:08 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Emission n°263 : "De Foucault à Cologne, l'Europe face au féminisme et à l'antiracisme"</title>
+            <link>http://www.meridien-zero.com/archive/2016/02/12/emission-n-263-de-foucault-a-cologne-l-europe-face-au-femini-5759037.html</link>
+            <description><![CDATA[Ce soir, Méridien Zéro vous propose de revenir sur le drame de Cologne, à savoir les agressions sexuelles et physiques massives commises par des migrants originaires d'Afrique du Nord et du Proche-Orient lors de la nuit de la Saint-Sylvestre de l'année passée. Pour comprendre les réactions stupéfiantes d'aveuglement des milieux féministes, nous reviendrons sur la généalogie idéologique de ces mouvements à travers la figure de Michel Foucault, icône de la gauche française et européenne. Pour se faire, deux invités de marque : François Bousquet, rédacteur-en-chef d'Eléments, auteur de "Putain de Saint Foucault". Archéologie d'un fétiche, paru aux éditions P.-G. De Roux, et David L'Epée, citoyen helvétique, collaborateur de multiples revues dont Eléments, Rébellion ou en encore Krisis. A la barre et à la technique, Wilsdorf et JLR.]]></description>
+            <pubDate>Sat, 13 Feb 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_12.02.2016.mp3" length="190646149" type="audio/mpeg"/>
+            <guid isPermaLink="false">008401B7-C991-48C1-93E1-8CEF5E12990D</guid>
+        </item>
         <item>
             <title>Emission n°262 : "Du temps de L'invasion noire"</title>
             <link>http://www.meridien-zero.com/archive/2016/02/05/emission-n-262-du-temps-de-l-invasion-noire-5755512.html</link>
