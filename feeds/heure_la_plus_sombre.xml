@@ -7,8 +7,8 @@
         <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 08 Feb 2016 16:34:13 -0500</pubDate>
-        <lastBuildDate>Mon, 08 Feb 2016 16:34:14 -0500</lastBuildDate>
+        <pubDate>Tue, 16 Feb 2016 07:52:09 -0500</pubDate>
+        <lastBuildDate>Tue, 16 Feb 2016 07:52:10 -0500</lastBuildDate>
         <image>
             <url>http://www.egaliteetreconciliation.fr/local/cache-vignettes/L250xH212/arton34712-fc8ce.jpg</url>
             <title>L'heure la plus sombre</title>
@@ -16,10 +16,18 @@
         </image>
         <atom:link href="http://lepayreel.info/feeds/heure_la_plus_sombre.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title>Hubert Viel (Les Filles au Moyen Âge)</title>
+            <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-no24-Emission-du-15-fevrier-2016-37804.html</link>
+            <description><![CDATA[Pour ce 24ème numéro de L’Heure la plus sombre, nos journalistes Vincent et Xavier recevaient Hubert Viel, auteur du film Les Filles au Moyen Âge.]]></description>
+            <pubDate>Mon, 15 Feb 2016 12:00:00 -0500</pubDate>
+            <enclosure url="http://www.egaliteetreconciliation.fr/IMG/mp3/2016-02-14_ERFM_HLPS_Ep24.mp3" length="130606080" type="audio/mpeg"/>
+            <guid isPermaLink="false">16C59715-1AF9-401A-AA4F-E9A1F4EE1587</guid>
+        </item>
+        <item>
             <title>Lucien Cerise</title>
             <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-no23-Emission-du-8-fevrier-2016-37665.html</link>
             <description><![CDATA[Pour ce 23ème numéro de L’Heure la plus sombre, nos journalistes Vincent et Xavier recevaient Lucien Cerise, auteur de Neuropirates, un ouvrage à paraître le 10 février 2016 aux éditions Kontre Kulture.]]></description>
-            <pubDate>Mon, 08 Feb 2016 00:00:00 -0500</pubDate>
+            <pubDate>Mon, 08 Feb 2016 12:00:00 -0500</pubDate>
             <enclosure url="http://www.egaliteetreconciliation.fr/IMG/mp3/2016-02-08_ERFM_HLPS_Ep23.mp3" length="165876480" type="audio/mpeg"/>
             <guid isPermaLink="false">1EAA0B2D-E51B-4D64-9539-D229FFC5A1DA</guid>
         </item>
