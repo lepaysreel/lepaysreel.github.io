@@ -4,17 +4,25 @@
         <title>Orages d'Acier</title>
         <link>http://www.meridien-zero.com</link>
         <description>Si c'est ton premier soir, tu dois combattre !</description>
-        <generator>Feeder 3 3.1.5(2620); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Wed, 17 Feb 2016 07:18:18 -0500</pubDate>
-        <lastBuildDate>Wed, 17 Feb 2016 07:18:18 -0500</lastBuildDate>
+        <pubDate>Sun, 21 Feb 2016 09:53:49 -0500</pubDate>
+        <lastBuildDate>Sun, 21 Feb 2016 09:53:50 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/orages_acier.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Orages d'acier #19</title>
+            <link>http://www.meridien-zero.com/archive/2016/02/14/orages-d-acier-19-5759941.html</link>
+            <description><![CDATA[Ce soir, fanfare ! Sur Kebeka Liberata puis en podcast.]]></description>
+            <pubDate>Sun, 14 Feb 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_14.02.2016.mp3" length="69814817" type="audio/mpeg"/>
+            <guid isPermaLink="false">53F69C42-6548-4867-9255-AA0C7D4BBFA6</guid>
+        </item>
         <item>
             <title>Orages d'acier #18</title>
             <link>http://www.meridien-zero.com/archive/2016/02/14/orages-d-acier-18-5759863.html</link>

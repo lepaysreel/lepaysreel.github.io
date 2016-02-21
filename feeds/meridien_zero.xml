@@ -7,14 +7,22 @@
         <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Wed, 17 Feb 2016 20:42:04 -0500</pubDate>
-        <lastBuildDate>Wed, 17 Feb 2016 20:42:05 -0500</lastBuildDate>
+        <pubDate>Sun, 21 Feb 2016 09:53:53 -0500</pubDate>
+        <lastBuildDate>Sun, 21 Feb 2016 09:53:54 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Emission n°264 : "La France, une puissance ?"</title>
+            <link>http://www.meridien-zero.com/archive/2016/02/19/emission-n-264-la-france-une-puissance-5762080.html</link>
+            <description><![CDATA[Ce soir, Méridien Zéro vous propose une réflexion sur la notion de puissance et les difficultés que la France éprouve avec ce concept redevenu pourtant essentiel. Notre invité principal est Christian Harbulot, fondateur de l'Ecole de Guerre Economique (EGE) de Paris, auteur de nombreux ouvrages dont Sabordage, aux éditions François Bourrin. Ce sera également l'occasion pour nous de revenir sur le parcours atypique de C. Harbulot dont l'engagement de jeunesse fut le maoïsme. Pierre Stadere nous apportera sa propre connaissance de l'histoire et des enjeux économiques pour élargir les points de vue. A la barre et à la technique, JLR.]]></description>
+            <pubDate>Sat, 20 Feb 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_19.02.2016.mp3" length="184579943" type="audio/mpeg"/>
+            <guid isPermaLink="false">E491CED7-55D1-40F1-B510-2AB37B211AC6</guid>
+        </item>
         <item>
             <title>Emission n°263 : "De Foucault à Cologne, l'Europe face au féminisme et à l'antiracisme"</title>
             <link>http://www.meridien-zero.com/archive/2016/02/12/emission-n-263-de-foucault-a-cologne-l-europe-face-au-femini-5759037.html</link>
