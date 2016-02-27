@@ -7,14 +7,32 @@
         <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Thu, 25 Feb 2016 11:19:47 -0500</pubDate>
-        <lastBuildDate>Thu, 25 Feb 2016 11:19:47 -0500</lastBuildDate>
+        <pubDate>Sat, 27 Feb 2016 09:51:44 -0500</pubDate>
+        <lastBuildDate>Sat, 27 Feb 2016 09:51:45 -0500</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Revue &amp; Corrigés #4</title>
+            <link>http://www.meridien-zero.com/archive/2016/02/27/revue-corriges-4-5766031.html</link>
+            <description><![CDATA[Avec un peu d'avance, la revue de presse de février 2016, par Julien et le Lt Sturm.]]></description>
+            <pubDate>Sat, 27 Feb 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/R&amp;C_27.02.2016.mp3" length="105285691" type="audio/mpeg"/>
+            <guid isPermaLink="false">9E52EF1D-9BF1-4E23-BFB1-E9643D219E94</guid>
+        </item>
+        <item>
+            <title>Emission n°265 : "Des Primaires contre l'establishment ?"</title>
+            <link>http://www.meridien-zero.com/archive/2016/02/26/emission-n-265-des-primaires-contre-l-establishment-5765532.html</link>
+            <description><![CDATA[<p>Ce soir, Méridien Zéro vous propose une émission d'analyse des élections primaires qui se déroulent actuellement aux Etats-Unis avec deux bons connaisseurs du système, de son histoire et de ses figures actuelles : Maurice Gendre et Georges Feltin-Tracol.</p>
+
+<p>A la barre et à la technique, JLR.</p>]]></description>
+            <pubDate>Sat, 27 Feb 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_26.02.2016.mp3" length="160710286" type="audio/mpeg"/>
+            <guid isPermaLink="false">0272AAE0-2D75-4788-A9CD-1FC01A62CB40</guid>
+        </item>
         <item>
             <title>Emission n°264 : "La France, une puissance ?"</title>
             <link>http://www.meridien-zero.com/archive/2016/02/19/emission-n-264-la-france-une-puissance-5762080.html</link>
