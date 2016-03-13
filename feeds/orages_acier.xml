@@ -7,14 +7,22 @@
         <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sat, 05 Mar 2016 22:07:06 -0500</pubDate>
-        <lastBuildDate>Sat, 05 Mar 2016 22:07:06 -0500</lastBuildDate>
+        <pubDate>Sun, 13 Mar 2016 10:41:26 -0400</pubDate>
+        <lastBuildDate>Sun, 13 Mar 2016 10:41:27 -0400</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/orages_acier.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Orages d'acier #22</title>
+            <link>http://www.meridien-zero.com/archive/2016/03/06/orages-d-acier-22-5770260.html</link>
+            <description><![CDATA[Ce soir, les camarades d'Orages d'acier nous proposent la deuxième partie de l'émission consacrée aux musiques de combat. Sur Kebeka Liberata et en podcast dès demain.]]></description>
+            <pubDate>Sat, 12 Mar 2016 18:00:00 -0500</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_06.03.2016.mp3" length="94428147" type="audio/mpeg"/>
+            <guid isPermaLink="false">1089A53B-437D-4FEC-89F5-E7A2A4E3BB8B</guid>
+        </item>
         <item>
             <title>Orages d'acier #21</title>
             <link>http://www.meridien-zero.com/archive/2016/03/01/orages-d-acier-21-5767431.html</link>

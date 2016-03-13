@@ -7,14 +7,22 @@
         <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sat, 05 Mar 2016 22:06:59 -0500</pubDate>
-        <lastBuildDate>Sat, 05 Mar 2016 22:06:59 -0500</lastBuildDate>
+        <pubDate>Sun, 13 Mar 2016 10:42:17 -0400</pubDate>
+        <lastBuildDate>Sun, 13 Mar 2016 10:42:17 -0400</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Emission n°267 : " De la mort du Père à la disparition des Chrétiens d'Orient. Rencontre avec Sylvain Durain"</title>
+            <link>http://www.meridien-zero.com/archive/2016/03/11/emission-n-267-5772615.html</link>
+            <description><![CDATA[Ce soir, Méridien Zéro vous propose une émission élaborée par nos camarades de Vent d'Est consacrée au travail du réalisateur Sylvain Durain. Celui-ci travaille sur des sujets très divers dont les deux derniers sont un documentaire sur l'histoire de la figure du père des origines à aujourd'hui et un reportage sur le sort tragique des Chrétiens d'Orient. Il vient également de publier un petit roman-fiction Hashtag Hollande 2017 qui évoque les raisons pour lesquelles Hollande pourrait être réélu en 2017.]]></description>
+            <pubDate>Sun, 13 Mar 2016 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_11.03.2016.mp3" length="115205937" type="audio/mpeg"/>
+            <guid isPermaLink="false">4ED260E8-65CD-46C3-A590-6DED94FFB506</guid>
+        </item>
         <item>
             <title>Emission n°266 : "René Resciniti de Says, alias René l'élégant, portrait d'un fasciste français ?"</title>
             <link>http://www.meridien-zero.com/archive/2016/03/04/emission-n-266-rene-resciniti-de-says-alias-rene-l-elegant-p-5769055.html</link>
