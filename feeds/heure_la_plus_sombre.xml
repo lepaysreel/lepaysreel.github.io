@@ -7,14 +7,22 @@
         <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Tue, 08 Mar 2016 08:04:29 -0500</pubDate>
-        <lastBuildDate>Tue, 08 Mar 2016 08:04:29 -0500</lastBuildDate>
+        <pubDate>Mon, 14 Mar 2016 14:05:20 -0400</pubDate>
+        <lastBuildDate>Mon, 14 Mar 2016 14:05:20 -0400</lastBuildDate>
         <image>
             <url>http://www.egaliteetreconciliation.fr/local/cache-vignettes/L250xH212/arton34712-fc8ce.jpg</url>
             <title>L'heure la plus sombre</title>
             <link>http://www.egaliteetreconciliation.fr</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/heure_la_plus_sombre.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Dieudonné et Alain Soral</title>
+            <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-du-14-mars-2016-Dieudonne-et-Alain-Soral-38331.html</link>
+            <description><![CDATA[Pour ce 28ème numéro de L’Heure la plus sombre, nos journalistes Vincent et Xavier recevaient Dieudonné et Alain Soral.]]></description>
+            <pubDate>Mon, 14 Mar 2016 12:00:00 -0400</pubDate>
+            <enclosure url="http://www.egaliteetreconciliation.fr/IMG/mp3/2016-03-13_ERFM_HLPS_Ep28.mp3" length="164608021" type="audio/mpeg"/>
+            <guid isPermaLink="false">C90A7C06-6C8D-4B9F-BB61-6F973DDEDE17</guid>
+        </item>
         <item>
             <title>André Pertusio, ancien résistant</title>
             <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-no27-Emission-du-7-mars-2016-38200.html</link>
