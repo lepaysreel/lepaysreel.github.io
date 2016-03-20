@@ -7,14 +7,22 @@
         <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sun, 13 Mar 2016 10:42:17 -0400</pubDate>
-        <lastBuildDate>Sun, 13 Mar 2016 10:42:17 -0400</lastBuildDate>
+        <pubDate>Sun, 20 Mar 2016 08:31:56 -0400</pubDate>
+        <lastBuildDate>Sun, 20 Mar 2016 08:31:57 -0400</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Emission n°268 : "Robert Dun, un éveilleur de la conscience européenne"</title>
+            <link>http://www.meridien-zero.com/archive/2016/03/18/emission-n-268-robert-dun-un-eveilleur-de-la-conscience-euro-5775968.html</link>
+            <description><![CDATA[Ce soir, Méridien Zéro vous propose de revenir avec notre camarade Robert Steuckers sur la vie et l'oeuvre de Robert Dun, figure sulfureuse et souvent méconnue du XXème siècle. A la barre et à la technique, Eugène Krampon et Wilsdorf.]]></description>
+            <pubDate>Sat, 19 Mar 2016 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_18.03.2016.mp3" length="209471240" type="audio/mpeg"/>
+            <guid isPermaLink="false">9D9C2026-04E1-4775-8989-94A8D50CEB86</guid>
+        </item>
         <item>
             <title>Emission n°267 : " De la mort du Père à la disparition des Chrétiens d'Orient. Rencontre avec Sylvain Durain"</title>
             <link>http://www.meridien-zero.com/archive/2016/03/11/emission-n-267-5772615.html</link>
