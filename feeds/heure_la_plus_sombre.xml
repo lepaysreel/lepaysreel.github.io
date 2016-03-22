@@ -4,17 +4,25 @@
         <title>L'Heure la plus Sombre</title>
         <link>http://www.egaliteetreconciliation.fr</link>
         <description>Gauche du travail, droite des valeurs</description>
-        <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.4 (Build 15E65) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Mon, 14 Mar 2016 14:05:20 -0400</pubDate>
-        <lastBuildDate>Mon, 14 Mar 2016 14:05:20 -0400</lastBuildDate>
+        <pubDate>Tue, 22 Mar 2016 09:30:10 -0400</pubDate>
+        <lastBuildDate>Tue, 22 Mar 2016 09:30:11 -0400</lastBuildDate>
         <image>
             <url>http://www.egaliteetreconciliation.fr/local/cache-vignettes/L250xH212/arton34712-fc8ce.jpg</url>
             <title>L'heure la plus sombre</title>
             <link>http://www.egaliteetreconciliation.fr</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/heure_la_plus_sombre.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Robert Faurisson</title>
+            <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-du-21-mars-2016-Invite-le-professeur-Robert-Faurisson-38457.html</link>
+            <description><![CDATA[Pour ce 29ème numéro de L’Heure la plus sombre, nos journalistes Vincent et Xavier recevaient le professeur Robert Faurisson, dont le procès en appel a eu lieu à Paris le 17 mars 2016.]]></description>
+            <pubDate>Mon, 21 Mar 2016 12:00:00 -0400</pubDate>
+            <enclosure url="http://www.egaliteetreconciliation.fr/IMG/mp3/2016-03-21_ERFM_HLPS_Ep29.mp3" length="215024358" type="audio/mpeg"/>
+            <guid isPermaLink="false">B1FA5A16-8CA9-426D-9A8A-3E317E7D8219</guid>
+        </item>
         <item>
             <title>Dieudonné et Alain Soral</title>
             <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-du-14-mars-2016-Dieudonne-et-Alain-Soral-38331.html</link>
