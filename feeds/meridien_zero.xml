@@ -4,17 +4,25 @@
         <title>Méridien Zéro</title>
         <link>http://www.meridien-zero.com</link>
         <description>A l'abordage et pas de quartier !</description>
-        <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.3 (Build 15D21) http://reinventedsoftware.com/feeder/</generator>
+        <generator>Feeder 3 3.1.6(2632); Mac OS X Version 10.11.4 (Build 15E65) http://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>fr</language>
-        <pubDate>Sun, 20 Mar 2016 08:31:56 -0400</pubDate>
-        <lastBuildDate>Sun, 20 Mar 2016 08:31:57 -0400</lastBuildDate>
+        <pubDate>Sun, 27 Mar 2016 08:23:58 -0400</pubDate>
+        <lastBuildDate>Sun, 27 Mar 2016 08:23:58 -0400</lastBuildDate>
         <image>
             <url>http://meridienzero.hautetfort.com/media/01/00/1422746955.png</url>
             <title>Méridien Zéro</title>
             <link>http://www.meridien-zero.com</link>
         </image>
         <atom:link href="http://lepayreel.info/feeds/meridien_zero.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Emission n°269 : "Groupes pop à mèche et barres de fer"</title>
+            <link>http://www.meridien-zero.com/archive/2016/03/25/emission-n-269-groupes-a-meche-et-barres-de-fer-5779532.html</link>
+            <description><![CDATA[Ce soir, Méridien Zéro prend un petit air de Radio Nostalgie avec une émission consacrée à la New Wawe de la fin des années 1970 et première moitié des années 1980. Nous avons en effet invité Pierre Robin, ancien militant du GUD puis du groupe Jalons, pour nous faire partager son attachement à ce courant musical et esthétique qui a baigné sa jeunesse. Les auditeurs intéressés par l'émission pourront d'ailleurs la prolonger avec les deux ouvrages publiés récemment par notre invité : Groupes pop à mèche et Jeunesse dorée. L'émission sera bien sûr l'occasion d'écouter quelques pépites musicales mais pas seulement : monsieur PGL a en effet mis sa lampe frontale et exhumé quelques surprises sonores qu'il nous fera partager... Enfin notre camarade Arnaud Naudin, le plus british d'entre nous, nous fera l'amitié d'apporter des compléments de point de vue sur cette époque. A la barre monsieur PGL et à la technique JLR.]]></description>
+            <pubDate>Sat, 26 Mar 2016 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Meridien_0_25.03.2016.mp3" length="212437770" type="audio/mpeg"/>
+            <guid isPermaLink="false">40CD62BA-E447-4AD0-B552-C2CB6CF28053</guid>
+        </item>
         <item>
             <title>Emission n°268 : "Robert Dun, un éveilleur de la conscience européenne"</title>
             <link>http://www.meridien-zero.com/archive/2016/03/18/emission-n-268-robert-dun-un-eveilleur-de-la-conscience-euro-5775968.html</link>
