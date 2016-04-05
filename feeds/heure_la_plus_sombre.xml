@@ -16,6 +16,14 @@
         </image>
         <atom:link href="http://lepayreel.info/feeds/heure_la_plus_sombre.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title>Revue de presse (avec Faits &amp; Documents)</title>
+            <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-no30-Emission-du-4-avril-2016-38692.html</link>
+            <description><![CDATA[Pour ce 30ème numéro de L’Heure la plus sombre, enregistré en partenariat avec la revue Faits & Documents, nos journalistes commentent les dernières actualités.]]></description>
+            <pubDate>Mon, 04 Apr 2016 12:00:00 -0400</pubDate>
+            <enclosure url="http://egaliteetreconciliation.fr/IMG/mp3/2016-04-04_ERFM_HLPS_Ep30.mp3" length="86534292" type="audio/mpeg"/>
+            <guid isPermaLink="false">1D902492-FAD2-11E5-BBC7-54EE755D70E3</guid>
+        </item>
+        <item>
             <title>Robert Faurisson</title>
             <link>http://www.egaliteetreconciliation.fr/L-Heure-la-plus-sombre-du-21-mars-2016-Invite-le-professeur-Robert-Faurisson-38457.html</link>
             <description><![CDATA[Pour ce 29ème numéro de L’Heure la plus sombre, nos journalistes Vincent et Xavier recevaient le professeur Robert Faurisson, dont le procès en appel a eu lieu à Paris le 17 mars 2016.]]></description>
