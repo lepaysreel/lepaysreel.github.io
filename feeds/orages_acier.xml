@@ -16,6 +16,14 @@
         </image>
         <atom:link href="http://lepayreel.info/feeds/orages_acier.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title>Orages d'acier #24</title>
+            <link>http://www.meridien-zero.com/archive/2016/04/03/orages-d-acier-25-5783679.html</link>
+            <description><![CDATA[Ce soir, une séance spéciale de nos camarades d'Orages d'acier... Sur Kebeka Liberata puis en podcast sur Méridien Zéro.]]></description>
+            <pubDate>Mon, 04 Apr 2016 18:00:00 -0400</pubDate>
+            <enclosure url="http://meridienzero.fr/mp3/Orages_04.04.2016.mp3" length="84566776" type="audio/mpeg"/>
+            <guid isPermaLink="false">F0480E56-FC1F-11E5-BC6C-54EE755D70E3</guid>
+        </item>
+        <item>
             <title>Orages d'acier #23</title>
             <link>http://www.meridien-zero.com/archive/2016/03/14/orages-d-acier-23-5774375.html</link>
             <description><![CDATA[Ce soir, les camarades de Fréquence Orages d'acier se penchent sur l'écologie...]]></description>
